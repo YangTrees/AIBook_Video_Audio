@@ -8,9 +8,9 @@
 | --- | --- | --- |
 | 团团 | Edge-TTS | `zh-CN-YunxiaNeural` |
 | 点点 | MinMax | `AIBook_diandian_edge_20260715174438` + 清脆嘹亮 V2 后期 |
-| 旁白 | Edge-TTS | `zh-CN-XiaoxiaoNeural` + 磁性版参数 |
+| 旁白 | Edge-TTS | 原生 `zh-CN-XiaoxiaoNeural` 温暖版 |
 
-点点的最终参考试听为 `audio_output/cloned_samples/diandian_edge_cloned_bright_loud_v2.mp3`。旁白的最终参考试听为 `audio_output/narrator_candidates/narrator_magnetic_loud.mp3`。
+点点的最终参考试听为 `audio_output/cloned_samples/diandian_edge_cloned_bright_loud_v2.mp3`。旁白的最终参考试听为 `audio_output/narrator_candidates/narrator_xiaoxiao_warm.mp3`。
 
 ## 在新电脑上恢复
 

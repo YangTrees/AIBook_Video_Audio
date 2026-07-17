@@ -64,7 +64,7 @@ def minimax_tts(text: str, voice: dict, env: dict[str, str], output: Path) -> No
 def normalize(source: Path, output: Path, role: str) -> None:
     filters = {
         "diandian": "highpass=f=100,equalizer=f=380:t=q:w=0.9:g=-2.5,equalizer=f=950:t=q:w=1.0:g=-1.5,equalizer=f=2900:t=q:w=1.1:g=2.8,equalizer=f=5200:t=q:w=1.0:g=2.0,acompressor=threshold=0.10:ratio=2.6:attack=4:release=70:makeup=1.6,loudnorm=I=-11:TP=-0.5:LRA=4",
-        "narrator": "highpass=f=70,equalizer=f=180:t=q:w=0.9:g=1.8,equalizer=f=420:t=q:w=1.0:g=1.2,equalizer=f=900:t=q:w=1.1:g=-0.8,equalizer=f=2800:t=q:w=1.0:g=1.2,acompressor=threshold=0.11:ratio=2.4:attack=8:release=110:makeup=1.4,loudnorm=I=-11.5:TP=-0.5:LRA=5",
+        "narrator": "loudnorm=I=-11.5:TP=-0.5:LRA=5",
         "tuantuan": "loudnorm=I=-12:TP=-0.5:LRA=5",
     }
     subprocess.run(

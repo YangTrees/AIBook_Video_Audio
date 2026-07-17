@@ -1,0 +1,142 @@
+{
+  "lesson": "第28课-会编故事的机器人",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "今天，团团和点点要带大家去破解一个藏在数字世界里的“诚实大谜题“！会聊天的AI计算机虽然读过成千上万本书，但它们有时候也会像调皮的小朋友一样，一本正经地胡编乱造呢！而拆穿谎言的秘密，就叫做——“信息来源“。"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "第28课《会编故事的机器人》！今天我们要去解锁大语言模型最关键的防伪安全锁。看看计算机是怎么识别真假知识，并学会给所有信息的源头“打分“的。"
+    },
+    {
+      "id": "upper_02_tuantuan",
+      "episode": "upper",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "哇，要给信息打分！"
+    },
+    {
+      "id": "upper_03_narrator",
+      "episode": "upper",
+      "scene": 3,
+      "role": "narrator",
+      "text": "哎呀，天空中亮晶晶的月亮，怎么会变成餐桌上的奶酪呢？可小机器人说得那么认真，听起来就像是真的一样。其实，机器并不是故意在撒谎骗人，它只是把一堆听起来很顺口、但实际上完全错误的词语拼在了一起。"
+    },
+    {
+      "id": "upper_04_narrator",
+      "episode": "upper",
+      "scene": 4,
+      "role": "narrator",
+      "text": "先看一看，再想一想。在AI的世界里，这种“听起来很对、实际上全错“的连篇瞎话，有一个非常著名的名字，叫做“幻觉“。AI在没有核对正确答案的时候，它的脑海就会像在做梦一样，随口编造故事。"
+    },
+    {
+      "id": "upper_05_narrator",
+      "episode": "upper",
+      "scene": 5,
+      "role": "narrator",
+      "text": "看！团团通过查阅权威的科普书，找到了真正的标准答案——月球是由岩石和尘埃组成的！小机器人之所以会产生“幻觉“，是因为它在自学的时候，偷偷把网上别人编的童话故事当成了真理。它自己根本分不清对错。"
+    },
+    {
+      "id": "upper_05_tuantuan",
+      "episode": "upper",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "原来月球是岩石和尘埃组成的！"
+    },
+    {
+      "id": "upper_06_tuantuan",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "我来当一回信息小侦探，给它们分分类！"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "太棒了！世界上所有的知识都有自己的“信息来源“。我们要想让AI不糊涂，就得像团团一样，给每一个信息的源头和出生地，严格地评出不同的信用分数！"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "记住信息分类的核心规则！第一，经过专家检查的科普书是“高分来源“，可以放心相信；第二，机器或别人随口说的话是“中分线索“，必须核实；第三，网上没有名字的传言是“低分噪音“，一定要提高警惕！"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "换个角度看，这群AI同学说的话是聪明还是糊涂，全看我们给它喂进去的是什么“数据食物“。吃的是垃圾噪音，吐出来的就是荒诞幻觉；只有给它输入来源干净、准确的高质量事实，AI才能成为最博学的科技助手。"
+    },
+    {
+      "id": "lower_03_narrator",
+      "episode": "lower",
+      "scene": 3,
+      "role": "narrator",
+      "text": "核心知识记心间：大模型说话会产生幻觉，听起来对的并不等于事实。在数字世界里，信息来源重于泰山。学会多方核实，寻找证据，不轻信一切没有源头的说法，这才是我们在人工智能时代最需要的科学探案精神！"
+    },
+    {
+      "id": "lower_03_tuantuan",
+      "episode": "lower",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "我都记住了！"
+    },
+    {
+      "id": "lower_04_narrator",
+      "episode": "lower",
+      "scene": 4,
+      "role": "narrator",
+      "text": "生活中，我们每个人都是最棒的“事实核查员“！不听信小伙伴的离奇传言、做菜时认准外婆的秘方、出门前查看天气预报——学会给生活中的消息找源头、找证据，我们的大脑才不会被假消息糊涂虫给占领！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "在真正的数字世界里，科学家们为了消灭AI的“幻觉“，发明了一种叫“检索增强生成“的超级防线！现在的聊天AI在回答你的长篇大论之前，它的后台会以极快的速度去翻阅全世界最权威的电子图书馆，把带有真实网址和书本页码的证据摆在桌面上，这样变出来的科学解答，就再也不会跑偏啦！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "太棒啦！第28课的事实核查卡片完美封箱！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "从奇妙的数字、图形，到复杂的神经网络，再到今天的信息来源，小朋友们，你们已经跟着团团和点点，把AI世界里所有的秘密全部解锁啦！恭喜你们通关，成为了最理性、最严谨的未来人工智能小专家！保持好奇，永远去寻找世界的真相吧！我们再见喽！"
+    }
+  ]
+}

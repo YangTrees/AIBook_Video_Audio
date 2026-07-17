@@ -3,7 +3,7 @@
   "voices": {
     "tuantuan": {"provider":"edge","voice_id":"zh-CN-YunxiaNeural"},
     "diandian": {"provider":"minimax","voice_id":"AIBook_diandian_edge_20260715174438","speed":0.98,"vol":1.0,"pitch":1,"emotion":"happy"},
-    "narrator": {"provider":"edge","voice_id":"zh-CN-XiaoxiaoNeural","rate":"-3%","pitch":"-8Hz","volume":"+5%"}
+    "narrator": {"provider":"edge","voice_id":"zh-CN-XiaoxiaoNeural"}
   },
   "segments": [
     {"id":"upper_01_narrator","episode":"upper","scene":1,"role":"narrator","text":"今天，团团和点点来到了超酷的数字音乐厅！计算机虽然不会唱歌，但它却是一位超级厉害的“调音大师”。在AI的世界里，机器要从成千上万个声音里抓出最重要的信息，全靠调音台上一种神奇的“秘密旋钮”！"},

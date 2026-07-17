@@ -1,0 +1,156 @@
+{
+  "lesson": "第29课-不要随便给陌生人",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "今天，团团和点点要带大家去参加一场“数字世界安全大冒险“！网络世界就像一个巨大的魔法游乐场，里面藏着数不清的宝贝。但是，我们在快乐游玩的时候，一定要穿上一件保护自己的隐形铠甲，这件铠甲就叫——“隐私“。"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "第29课《不要随便给陌生人》！今天我们要去解锁数字世界里最重要的一道安全密码，看看怎么保护我们的“个人信息“，不让坏人有可乘之机。"
+    },
+    {
+      "id": "upper_02_tuantuan",
+      "episode": "upper",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "原来要保护个人信息！"
+    },
+    {
+      "id": "upper_03_narrator",
+      "episode": "upper",
+      "scene": 3,
+      "role": "narrator",
+      "text": "哎呀，不好了！屏幕上突然跳出了一个超级诱人的大奖状，说能免费送大玩具，只要把家里住哪里、电话多少填进去就行。小熊正要伸手去点，团团赶紧叫停！小朋友们，这种天上掉馅饼的好事，背后往往藏着大陷阱呢！"
+    },
+    {
+      "id": "upper_04_narrator",
+      "episode": "upper",
+      "scene": 4,
+      "role": "narrator",
+      "text": "先看一看，再想一想。没有经过核实，任何网络上的陌生人向我们要东西，我们都得拉响心中的警报。在AI和数字世界里，你的名字、家里的地址、爸爸妈妈的电话，都有一个共同的科技名字，叫做“隐私“。"
+    },
+    {
+      "id": "upper_05_narrator",
+      "episode": "upper",
+      "scene": 5,
+      "role": "narrator",
+      "text": "看！这三个小图标，就是我们最重要的“隐私三宝“。地址会暴露我们住在哪，电话会打扰家里的安静，名字是我们的真实身份。它们就像你最心爱的玩具宝箱，钥匙必须牢牢握在自己手里，绝对不能随便扔给陌生人！"
+    },
+    {
+      "id": "upper_05_diandian",
+      "episode": "upper",
+      "scene": 5,
+      "role": "diandian",
+      "text": "这就是隐私三宝！"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "如果不小心把隐私钥匙丢了，可就危险啦！"
+    },
+    {
+      "id": "upper_06_narrator",
+      "episode": "upper",
+      "scene": 6,
+      "role": "narrator",
+      "text": "没错，网络另一端的陌生人，有些是伪装成好人的小偷。他们拿到你的地址和电话后，可能会用这些信息做坏事，比如冒充你，或者打扰你和家人的安全。保护隐私，就是保护我们自己！"
+    },
+    {
+      "id": "lower_01_tuantuan",
+      "episode": "lower",
+      "scene": 1,
+      "role": "tuantuan",
+      "text": "遇到陌生人要信息，记住我的“安全三大口诀“！第一，遇到任何让你填空的地方，必须先去问爸爸妈妈；第二，绝对不在任何网上随便留下地址和电话；第三，看到奇怪的中奖信息，立刻转头走开！"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "太棒了的安全口诀！"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "换个角度看，捂紧隐私口袋的小朋友，在网络世界里最安全！"
+    },
+    {
+      "id": "lower_02_tuantuan",
+      "episode": "lower",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "我才会上当呢！"
+    },
+    {
+      "id": "lower_03_narrator",
+      "episode": "lower",
+      "scene": 3,
+      "role": "narrator",
+      "text": "核心知识记心间：个人信息是我们的核心隐私，绝对不能随便告诉陌生人。坏人会利用隐私做坏事，保护隐私就是保护我们自身的安全。遇到任何要填信息的情况，不要犹豫，先去问爸爸妈妈，他们是最好的安全卫士！"
+    },
+    {
+      "id": "lower_03_tuantuan",
+      "episode": "lower",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "我都记住了！"
+    },
+    {
+      "id": "lower_04_narrator",
+      "episode": "lower",
+      "scene": 4,
+      "role": "narrator",
+      "text": "生活中，我们也要随时当好“隐私小侦探“！在公园里不告诉陌生人名字、在商场里不为了小礼物随便填表、在网上发照片时不露出学校和家庭的标志——把安全防护罩带进生活，坏人就永远找不到我们啦！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "在真正的数字世界里，科学家和AI工程师们为了保护大家的隐私，每天都在用最厉害的“数据加密魔法“和坏人战斗！现在的智能系统在传输你的信息时，会自动把文字变成一串谁也看不懂的神秘乱码，锁进高科技的超级保险箱里，只有爸爸妈妈和最安全的服务器才能打开它！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "把这个保护个人信息的隐私魔法好好藏进百宝箱！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "哇，不知不觉我们又通过了一项了不起的安全考验！下一课，当小AI学会了所有的思考、创造和自我保护之后，我们又要如何让它保持公正、不偏不倚，像正义的裁判一样对待每一个人呢？我们要去探索“AI的公平与偏见“啦，下期再见！"
+    }
+  ]
+}

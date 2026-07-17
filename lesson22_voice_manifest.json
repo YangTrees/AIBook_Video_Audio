@@ -3,7 +3,7 @@
   "voices": {
     "tuantuan": {"provider":"edge","voice_id":"zh-CN-YunxiaNeural"},
     "diandian": {"provider":"minimax","voice_id":"AIBook_diandian_edge_20260715174438","speed":0.98,"vol":1.0,"pitch":1,"emotion":"happy"},
-    "narrator": {"provider":"edge","voice_id":"zh-CN-XiaoxiaoNeural","rate":"-3%","pitch":"-8Hz","volume":"+5%"}
+    "narrator": {"provider":"edge","voice_id":"zh-CN-XiaoxiaoNeural"}
   },
   "segments": [
     {"id":"upper_01_narrator","episode":"upper","scene":1,"role":"narrator","text":"今天，团团和点点要带大家去拜访一位神奇的“兔子画家”！在人工智能的视觉世界里，小AI想要看懂一张脸，也得像这位画家一样，拥有一套把“边边角角”拼成“大魔法”的奇妙本领呢！"},

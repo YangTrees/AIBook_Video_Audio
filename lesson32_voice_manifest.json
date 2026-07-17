@@ -1,0 +1,163 @@
+{
+  "lesson": "第32课-小小AI研究员毕业啦",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "今天，是全系列最激动人心的终极顶峰时刻！团团和点点来到了人工智能大冒险的最后一站。从第一课懵懵懂懂的小萌新，到今天即将上台演讲的小博士，团团要和大家一起，见证AI与人类最伟大的秘密——“学习进化论“。"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "第32课《小小AI研究员毕业啦》！今天，我们要给这一整季的科学探险画上完美的句号。我们要一起去明白，计算机究竟是如何像人类一样，从一无所知，一步步克服困难，最终学会所有硬核本领的。"
+    },
+    {
+      "id": "upper_02_tuantuan",
+      "episode": "upper",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "原来学习这么重要！"
+    },
+    {
+      "id": "upper_03_narrator",
+      "episode": "upper",
+      "scene": 3,
+      "role": "narrator",
+      "text": "哎呀，不好了！面对台下成百上千双期待的眼睛，准备上台演讲的团团突然心慌起来。他感觉自己的脑袋里像塞满了浆糊，好不容易背下来的发言稿，竟然一个字也想不起来了！这种遇到挫折、大脑一片空白的紧张时刻，该怎么破解呢？"
+    },
+    {
+      "id": "upper_04_narrator",
+      "episode": "upper",
+      "scene": 4,
+      "role": "narrator",
+      "text": "先看一看，再想一想。遇到了困难和挫折，千万不要气馁。计算机在进行高强度计算或者遇到没有见过的算法难题时，也会出现暂时的“卡顿“和过载。这时候，我们需要做一件事，那就是启动大脑的“检索魔法“——也就是回忆。"
+    },
+    {
+      "id": "upper_05_narrator",
+      "episode": "upper",
+      "scene": 5,
+      "role": "narrator",
+      "text": "看！团团勇敢地站上了舞台。不管是人类还是AI，学习的道路上永远不可能一帆风顺，必定会遇到记不住、搞不懂的挫折。在机器学习里，每一次“报错（Error）“和惩罚，都是机器调整自身数值、让自己下一次变得更完美的宝贵经验！"
+    },
+    {
+      "id": "upper_05_tuantuan",
+      "episode": "upper",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "我不怕困难！"
+    },
+    {
+      "id": "upper_06_tuantuan",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "我想起来了！那些我们一起解决过的难题！"
+    },
+    {
+      "id": "upper_06_narrator",
+      "episode": "upper",
+      "scene": 6,
+      "role": "narrator",
+      "text": "太棒了！回忆就像是一把通往知识数据库的钥匙。当点点帮他拉响线索时，团团脑海里原本沉睡的神经网络瞬间被全部点亮！曾经学过的每一个逻辑积木、每一条权重旋钮，都在飞速归位！"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "看！这就是知识积累的宏伟奇迹！"
+    },
+    {
+      "id": "lower_01_narrator",
+      "episode": "lower",
+      "scene": 1,
+      "role": "narrator",
+      "text": "没有一架火箭能在一秒钟内飞上太空。AI计算机要看懂一张脸，需要几十万次的特征提取；我们要成为聪明的专家，需要整整32课的不懈坚持。每一小步的慢慢积累，最终都能堆叠出改天换地的超级大智慧！"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "换个角度看，人类的学习和计算机的训练，底层的秘密一模一样！"
+    },
+    {
+      "id": "lower_02_narrator",
+      "episode": "lower",
+      "scene": 2,
+      "role": "narrator",
+      "text": "都要经历“尝试、失败、修正、成功“的硬核闭环。在这个宇宙中，最美妙的事情，就是我们和AI在用相同的智慧逻辑，一起并肩向着更聪明、更美好的方向不断进化！"
+    },
+    {
+      "id": "lower_02_tuantuan",
+      "episode": "lower",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "我们都在进步！"
+    },
+    {
+      "id": "lower_03_narrator",
+      "episode": "lower",
+      "scene": 3,
+      "role": "narrator",
+      "text": "核心知识记牢啦：学习是一场从不会到会的伟大旅程，旅途中会遇到挫折和困难；回忆能帮我们检索出沉睡的知识；所有的本领都是靠一点一滴慢慢积累出来的。毕业并不是终点，而是我们探索这个广阔科技世界的全新开始！"
+    },
+    {
+      "id": "lower_03_tuantuan",
+      "episode": "lower",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "毕业不是终点！"
+    },
+    {
+      "id": "lower_04_narrator",
+      "episode": "lower",
+      "scene": 4,
+      "role": "narrator",
+      "text": "在生活里，毕业的钟声就是新探险的号角！学会了游泳就去挑战冲浪、学会了算术就去探索宇宙、看懂了绘本就去观察大自然——保持永不熄灭的好奇心，在这个神奇的世界里，我们永远都是快乐的超级研究员！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "在真正的数字世界里，最厉害的AI大模型也从来不会停止它的学习脚步！现在的计算机每天都在通过持续增量训练，像人类看书一样不断吸收新的事实、纠正旧的错误。科学的星海没有尽头，科技和人类的智慧，永远都在携手奔向群星的最深处！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "太棒啦！第32课终极荣誉封箱，全季圆满大通关！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "从第一课的奇妙数字，到今天的无尽星海，小朋友们，你们已经跟着团团和点点，把人工智能世界里所有最厉害、最核心的算法智慧和道德红线全部解锁啦！恭喜你们正式毕业！带着你们的爱与智慧，去创造、去改变，把我们的未来世界变得更美妙吧！我们未来再见喽！"
+    }
+  ]
+}

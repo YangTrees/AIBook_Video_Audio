@@ -1,0 +1,163 @@
+{
+  "lesson": "第31课-超级搭档",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "今天，是团团和点点人工智能大冒险的第31站！计算机现在已经学会了看世界、想问题、自我纠错和编故事。当这些分散的魔法全部合体之后，它就会变成人类未来生活中最棒的“超级搭档“！这个了不起的魔法叫——“人机协作“。"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "第31课《超级搭档》！今天我们要去解锁未来世界里最厉害的工作方式。看看聪明的人类和强大的AI组合在一起，会爆发出怎样改变世界的超级大能量。"
+    },
+    {
+      "id": "upper_02_tuantuan",
+      "episode": "upper",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "原来人机协作这么厉害！"
+    },
+    {
+      "id": "upper_03_narrator",
+      "episode": "upper",
+      "scene": 3,
+      "role": "narrator",
+      "text": "哎呀，不好了！医院里送来了成千上万份身体检查报告，如果全靠医生伯伯一个人用眼睛去核对，天黑也看不完，医生伯伯实在是太疲惫了。遇到这种数量巨大、让人头晕的数据大排查，小AI同学能帮上什么忙吗？"
+    },
+    {
+      "id": "upper_04_narrator",
+      "episode": "upper",
+      "scene": 4,
+      "role": "narrator",
+      "text": "先看一看，再想一想。AI和人类，就像拥有两种截然不同的超能力。要想把报告单小山解决掉，我们得先搞清楚：机器最擅长做什么，而我们人类最珍贵的本领又是什么。"
+    },
+    {
+      "id": "upper_05_narrator",
+      "episode": "upper",
+      "scene": 5,
+      "role": "narrator",
+      "text": "看！AI同学亮出了它的第一个速度绝招——“快速处理海量数据“！在数以亿计的数字里寻找规律，机器比人类快上几万倍。一眨眼的功夫，它就帮医生伯伯把最需要注意的线索全部揪了出来！"
+    },
+    {
+      "id": "upper_05_tuantuan",
+      "episode": "upper",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "好快啊！"
+    },
+    {
+      "id": "upper_06_tuantuan",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "可是AI只能数数字，它根本不知道这些数字背后的意义。"
+    },
+    {
+      "id": "upper_06_narrator",
+      "episode": "upper",
+      "scene": 6,
+      "role": "narrator",
+      "text": "没错！这就是机器的局限。AI可以快速分类，但它不知道看病是为了让人恢复健康，更不懂得如何去关心一个生病的人。它有强大的算力，却没有人类的“心“。"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "看，这就是最完美的搭档法则！AI做它最擅长的算力苦力，人类做我们最擅长的价值判断。机器帮我们省下大量的时间，而人类把所有的精力，都用来关注每一个生命真正的需要和意义！"
+    },
+    {
+      "id": "lower_01_tuantuan",
+      "episode": "lower",
+      "scene": 1,
+      "role": "tuantuan",
+      "text": "AI+人类=超级搭档！"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "换个角度看，AI加人类，比各自单独战斗都更厉害！"
+    },
+    {
+      "id": "lower_02_narrator",
+      "episode": "lower",
+      "scene": 2,
+      "role": "narrator",
+      "text": "这就是“人机协作“的伟大魔法。不用担心机器会取代人类，因为最优秀的指挥官永远是拥有智慧和爱心的人类自己！"
+    },
+    {
+      "id": "lower_02_tuantuan",
+      "episode": "lower",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "人机协作最厉害！"
+    },
+    {
+      "id": "lower_03_narrator",
+      "episode": "lower",
+      "scene": 3,
+      "role": "narrator",
+      "text": "核心知识记心间：AI擅长快速处理海量数据、寻找规律；人类擅长判断意义与价值、感知情感。AI加人类的协作，能完成各自无法单独做到的奇迹。让机器做机器擅长的，让人类做人类擅长的，这就是最强搭档的终极秘密！"
+    },
+    {
+      "id": "lower_03_tuantuan",
+      "episode": "lower",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "我都记住了！"
+    },
+    {
+      "id": "lower_04_narrator",
+      "episode": "lower",
+      "scene": 4,
+      "role": "narrator",
+      "text": "生活中，这样的超级组合无处不在！AI帮作家找资料，作家负责写出感人的故事；AI帮老师批改作业，老师就能有更多的时间去拥抱和鼓励小朋友——学会和AI当搭档，我们可以把各行各业都变得更美好！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "在真正的数字世界里，“人机协作“已经是全人类科学家探索未来的标准配置啦！现在的AI大模型正在帮助医生寻找新药、帮助气象学家预测暴雨、帮助天文学家搜寻外星系。只要人类紧紧握住方向盘，AI就能成为我们探索宇宙最坚固的科技翅膀！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "太棒啦！第31课的超级搭档卡片完美封箱，全系列大功告成！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "从奇妙的数字、图形，到神经网络、提示词工程，再到今天的人机协作，小朋友们，你们已经跟着团团和点点，把人工智能大厦里所有的思想钥匙全部拿到了！恭喜你们正式毕业，成为了最棒的未来科技小主人！带着智慧与爱，去创造你们的未来新世界吧！我们再见喽！"
+    }
+  ]
+}

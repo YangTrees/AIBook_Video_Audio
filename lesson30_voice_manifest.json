@@ -1,0 +1,177 @@
+{
+  "lesson": "第30课-同样努力却分数不同",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "今天，团团和点点要带大家去破解一个数字世界里的“正义大谜题“！计算机虽然是用冷冰冰的芯片组成的，但如果人类没有教好它，它在做决定时，也会像犯糊涂的小朋友一样产生不公平的“偏心“呢！这门学问叫——“偏见“。"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "第30课《同样努力却分数不同》！今天我们要去解锁人工智能神经网络里最需要遵守的道德红线。看看计算机是如何在不知不觉中产生不公平的偏好，而我们又是如何帮它纠正错误的。"
+    },
+    {
+      "id": "upper_02_tuantuan",
+      "episode": "upper",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "原来这就是偏见！"
+    },
+    {
+      "id": "upper_03_narrator",
+      "episode": "upper",
+      "scene": 3,
+      "role": "narrator",
+      "text": "哎呀，太奇怪了！两个小朋友明明同样努力，连试卷上的标准答案都写得一模一样，为什么分数的差额会这么大呢？红色衣服的小朋友明明没有做错任何题。这种“同样努力却结果不同“的奇怪现象，就是我们要抓出来的隐藏捣蛋鬼。"
+    },
+    {
+      "id": "upper_03_tuantuan",
+      "episode": "upper",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "怎么会这样！"
+    },
+    {
+      "id": "upper_04_narrator",
+      "episode": "upper",
+      "scene": 4,
+      "role": "narrator",
+      "text": "先看一看，再想一想。问题并不是出在红衣服小朋友身上，而是出在老师手里的“计分规则“上！原来，这张表上悄悄写着一条不公平的规矩：“只要穿蓝色衣服就额外加分，穿红色衣服就扣分“。这种不公平的偏心，在科技界有一个专业的词汇，叫做“偏见“。"
+    },
+    {
+      "id": "upper_04_tuantuan",
+      "episode": "upper",
+      "scene": 4,
+      "role": "tuantuan",
+      "text": "原来问题在计分规则上！"
+    },
+    {
+      "id": "upper_05_narrator",
+      "episode": "upper",
+      "scene": 5,
+      "role": "narrator",
+      "text": "看！团团一眼就看穿了秘密。分数不同，和答得好不好完全没有关系，是因为评分的标准本身就带着主观的偏好！当AI计算机在筛选信息时，如果也用这种带有偏心的标准去衡量人或事，就会制造出巨大的不公正。"
+    },
+    {
+      "id": "upper_05_tuantuan",
+      "episode": "upper",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "原来偏见就藏在这里！"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "计算机的偏见，其实是跟人类的数据学坏的！"
+    },
+    {
+      "id": "upper_06_narrator",
+      "episode": "upper",
+      "scene": 6,
+      "role": "narrator",
+      "text": "没错！如果我们在训练AI时，给它看的数据是不均衡的，比如照片里医生全是男生、护士全是女生，AI就会简单地认为女生不能当医生。它以为自己找到了规律，其实是学到了人类历史中藏在数据里的刻板印象。"
+    },
+    {
+      "id": "upper_06_tuantuan",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "原来AI也会学坏！"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "要消灭AI的偏见，就必须启动“数据均衡魔法“！我们要给机器吃营养均衡的“数据食物“。既要让它看到男医生，也要让它看到大量优秀的女医生，把数据源头的偏心全部擦洗干净，AI才能学会客观。"
+    },
+    {
+      "id": "lower_01_tuantuan",
+      "episode": "lower",
+      "scene": 1,
+      "role": "tuantuan",
+      "text": "原来要均衡数据！"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "换个角度看，只有评分标准公平，努力的汗水才不会被浪费！看，当机器学会了抛开衣服颜色等不相干的特征、只检查知识答案时，那座正义的大天平就会瞬间恢复完美的平衡！"
+    },
+    {
+      "id": "lower_02_tuantuan",
+      "episode": "lower",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "公平真好！"
+    },
+    {
+      "id": "lower_03_narrator",
+      "episode": "lower",
+      "scene": 3,
+      "role": "narrator",
+      "text": "核心知识记牢啦：偏见是不公平地对待某些人或某些事。同样努力的人，如果标准不公，就会得到不同的结果。AI也会因为学习了不公平的数据而产生偏见。所以，设计公平的算法标准，给予每一个人同等的尊重，是人类和AI必须共同遵守的最高准则！"
+    },
+    {
+      "id": "lower_03_tuantuan",
+      "episode": "lower",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "公平最重要！"
+    },
+    {
+      "id": "lower_04_narrator",
+      "episode": "lower",
+      "scene": 4,
+      "role": "narrator",
+      "text": "生活中，我们每个人也随时都要和“偏见虫“做斗争！不觉得男孩子就不能哭、不觉得女孩子就不能玩遥控车、不因为外表和口音去孤立别人——打破藏在生活里的刻板印象，我们的校园才能变成最温暖的大家庭！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "在真正的数字世界里，全世界的顶级科学家和数据工程师每天都在为了“消除偏见“而努力战斗！为了防止AI在写故事、挑人才时产生不公平的偏心，工程师们会在后台设置极其严格的“审计大网“，一旦发现数据里有歧视或者刻板印象，就会立刻用数学公式将它们修正，确保科技能够公平地服务每一个人！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "把这个捍卫公平的偏见魔法好好藏进百宝箱！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "哇，太了不起了，我们又通关了一课！小朋友们，从第一课的循环判断，到今天的公平与正义，我们已经解锁了AI世界里最核心的全部思想。下一课，我们将迎来第31课的最终总完结——《我们要如何与AI共处》，一起去看看未来的我们要如何带着这些智慧，和AI大助手并肩创造奇妙的未来世界！最后一期，我们不见不散啦！"
+    }
+  ]
+}

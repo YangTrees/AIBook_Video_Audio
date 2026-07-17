@@ -1,0 +1,25 @@
+{
+  "lesson": "第27课-从乱点点到清图画",
+  "voices": {
+    "tuantuan": {"provider":"edge","voice_id":"zh-CN-YunxiaNeural"},
+    "diandian": {"provider":"minimax","voice_id":"AIBook_diandian_edge_20260715174438","speed":0.98,"vol":1.0,"pitch":1,"emotion":"happy"},
+    "narrator": {"provider":"edge","voice_id":"zh-CN-XiaoxiaoNeural"}
+  },
+  "segments": [
+    {"id":"upper_01_narrator","episode":"upper","scene":1,"role":"narrator","text":"今天，团团和点点要带大家去参加一场宇宙级神奇的“创造力魔法秀”！计算机不只会帮我们整理玩具、调音和画线，现在的AI甚至能像真正的大画家一样，凭空变出世界上最新鲜、最美丽的图画呢！这个魔法叫——“生成式AI”。"},
+    {"id":"upper_02_diandian","episode":"upper","scene":2,"role":"diandian","text":"第27课《从乱点点到清图画》！今天我们要去揭开生成式AI最核心的创作密码。看看计算机究竟是如何把一堆乱七八糟的乱点点，变成一幅清清楚楚的漂亮画作的。"},
+    {"id":"upper_03_tuantuan","episode":"upper","scene":3,"role":"tuantuan","text":"哎呀，仙女姐姐的画纸上怎么全都是乱七八糟的小黑点呀？感觉就像是不小心打翻了墨水瓶。如果直接把这幅“乱点点”交给普通电脑，它肯定什么也看不懂。那么，生成式AI要怎么从这些杂乱的迷雾里，找到隐藏的宝贝呢？"},
+    {"id":"upper_04_narrator","episode":"upper","scene":4,"role":"narrator","text":"先看一看，再想一想。生成式AI的眼睛可厉害了，它能在一片混乱中寻找秩序。在AI的世界里，这些乱点点叫做“噪声”。机器在画画时，第一步不是直接涂颜色，而是要像擦玻璃一样，把这些干扰思考的“噪声点”一点一点地擦掉。"},
+    {"id":"upper_05_narrator","episode":"upper","scene":5,"role":"narrator","text":"看！奇迹发生啦！第一步，乱点点连接成了清晰的“线条”；第二步，线条互相做朋友，组合成了好玩的“形状”！看那弯弯的长线条，是不是特别像一只小动物长长的耳朵？机器就是这样一步步推导的。"},
+    {"id":"upper_06_tuantuan","episode":"upper","scene":6,"role":"tuantuan","text":"哇！第三步拼出整体，第四步铺上漂亮的灰色，第五步加上红眼睛！它变成了一只活生生的小兔子！"},
+    {"id":"upper_06_diandian","episode":"upper","scene":6,"role":"diandian","text":"太棒了！生成式AI的大脑里装了一台“时间放大镜”，它通过“点点、线条、形状、颜色、细节”这五个细致的台阶，把混乱彻底变成了美丽！"},
+    {"id":"lower_01_diandian","episode":"lower","scene":1,"role":"diandian","text":"记住生成式AI的核心规则——它是“一步一步”创造内容的！就像我们搭积木一样，机器每次只消除一点点噪声，增加一点点细节。这种层层递进、慢慢变清晰的创作方式，让最复杂的图画也能被轻松创造出来。"},
+    {"id":"lower_02_diandian","episode":"lower","scene":2,"role":"diandian","text":"换个角度看，AI之所以知道乱点点下面藏着小兔子，是因为它在后台读过几亿张图画！"},
+    {"id":"lower_02_tuantuan","episode":"lower","scene":2,"role":"tuantuan","text":"因为机器提前学习过海量的兔子图片，深深地记住了兔子的长相规律。所以，生成并不是凭空瞎造，而是基于人类教给它的丰富知识哦！"},
+    {"id":"lower_03_narrator","episode":"lower","scene":3,"role":"narrator","text":"核心知识记牢啦：生成式AI是“一步一步”创造新内容的。生成的内容全部来自它学习过的数据。如果给机器喂的是乱七八糟的坏数据，它变出来的就会是奇怪的怪物；只有输入高质量的好数据，AI大助手才能变出最完美的艺术品！"},
+    {"id":"lower_04_narrator","episode":"lower","scene":4,"role":"narrator","text":"生活中，我们每个人也都是最棒的“生成式大师”！画风景时先勾线再涂色、玩拼图时化零为整、捏彩泥时由粗到细——这种“拒绝一口吞、一步一步把想法变成现实”的创作智慧，让我们的双手充满了无限的可能！"},
+    {"id":"lower_05_diandian","episode":"lower","scene":5,"role":"diandian","text":"在真正的数字世界里，现在那些会帮人类画精美海报、写动听歌曲、甚至制作震撼电影的“生成式人工智能”，全都是靠着这个“一步步去噪生成”的伟大引擎在运转！科学家们赋予了它全人类的艺术财富，让它成了最懂人类奇思妙想的终极创作好帮手。"},
+    {"id":"lower_06_tuantuan","episode":"lower","scene":6,"role":"tuantuan","text":"把这个从乱点点到清图画的生成魔法好好藏进百宝箱！"},
+    {"id":"lower_06_diandian","episode":"lower","scene":6,"role":"diandian","text":"下一课，我们不见不散啦！"}
+  ]
+}
