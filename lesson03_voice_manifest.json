@@ -1,0 +1,32 @@
+{
+  "lesson": "第3课-小邮差的密码信",
+  "voices": {
+    "tuantuan": "zh-CN-YunxiaNeural",
+    "diandian": "zh-CN-XiaoyiNeural",
+    "narrator": "zh-CN-XiaoxiaoNeural",
+    "postman": "zh-CN-YunyangNeural"
+  },
+  "segments": [
+    {"id":"s01_narrator","scene":"01","role":"narrator","text":"小朋友们好！今天，团团和点点要去一个特别的地方——那里住着一位神奇的邮差叔叔，他会教我们一个超厉害的魔法！想不想一起去看看？"},
+    {"id":"s02_diandian","scene":"02","role":"diandian","text":"我们今天要学习第3课——《小邮差的密码信》！猜猜看，“编码”是什么意思？编码就是一个超棒的魔法——给信息换一件神秘的外套！"},
+    {"id":"s03_postman","scene":"03","role":"postman","text":"唉，我要送一封很重要的信，可是坏人要是偷看了怎么办呀？"},
+    {"id":"s04_tuantuan","scene":"04","role":"tuantuan","text":"我来试试！给信穿一件“密码外套”怎么样？"},
+    {"id":"s05_tuantuan","scene":"05","role":"tuantuan","text":"你看！苹果变成红圆圈，别人就认不出来啦！"},
+    {"id":"s05_diandian_01","scene":"05","role":"diandian","text":"对！就是像这样，把消息替换成秘密符号，坏人看不懂了。"},
+    {"id":"s05_diandian_02","scene":"05","role":"diandian","text":"其实这个办法就叫做——编码。"},
+    {"id":"s06_diandian_01","scene":"06","role":"diandian","text":"看！不光苹果，香蕉、星星都能换成约定好的符号。"},
+    {"id":"s06_diandian_02","scene":"06","role":"diandian","text":"同一个东西，换一种方式表达，这就是编码！"},
+    {"id":"s06_tuantuan","scene":"06","role":"tuantuan","text":"哇，好多东西都能穿密码外套！"},
+    {"id":"s07_narrator","scene":"07","role":"narrator","text":"太棒了！我们已经会给信息“穿外套”了！可是穿上外套的信，怎么才能读懂呢？答案就是——解码！把外套脱掉，就能看到原来的样子啦！"},
+    {"id":"s08_tuantuan","scene":"08","role":"tuantuan","text":"咦？都打不开呀！"},
+    {"id":"s09_diandian_01","scene":"09","role":"diandian","text":"钥匙要和锁配对，编码和解码也要用同一套规则。"},
+    {"id":"s09_diandian_02","scene":"09","role":"diandian","text":"约定好红圆圈代表苹果，变回来时也要按这个来，换成别的就对不上啦。"},
+    {"id":"s09_tuantuan","scene":"09","role":"tuantuan","text":"我懂了！穿什么外套，就脱什么外套！"},
+    {"id":"s09b_diandian","scene":"09B","role":"diandian","text":"你知道吗？信息世界中，电脑和AI也会用这样的编码方法处理信息。它们把所有的信息——图片、音乐、动画——都用0和1来表示。就像我们给信穿外套一样，电脑也给信息穿上了“数字外套”！"},
+    {"id":"s10_narrator","scene":"10","role":"narrator","text":"同一段信息，可以有很多种表达方式。你好也可以用笑脸表示，还可以用握手表示，同一段信息可以用多种表达方式，这就是编码的神奇魔法！让沟通变得超有趣！"},
+    {"id":"s11_narrator","scene":"11","role":"narrator","text":"今天我们学到了三个魔法：第一，编码是给信息穿外套；第二，解码是把外套脱掉；第三，编码和解码必须用同一套规则！记住了吗？"},
+    {"id":"s12_tuantuan","scene":"12","role":"tuantuan","text":"我要把今天学的编码魔法收藏起来！"},
+    {"id":"s12_diandian","scene":"12","role":"diandian","text":"下一课，还有更有趣的AI小秘密等着我们哦！"}
+  ]
+}
+

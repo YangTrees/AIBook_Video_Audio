@@ -1,0 +1,17 @@
+{
+  "tuantuan": {
+    "voice_id": "AIBook_tuantuan_20260715113639",
+    "source": "reference_audio/tuantuan_reference.mp3",
+    "output": "audio_output/cloned_samples/tuantuan_cloned.mp3"
+  },
+  "diandian": {
+    "voice_id": "AIBook_diandian_20260715113639",
+    "source": "reference_audio/diandian_reference.mp3",
+    "output": "audio_output/cloned_samples/diandian_cloned.mp3"
+  },
+  "narrator": {
+    "voice_id": "AIBook_narrator_20260715113639",
+    "source": "reference_audio/narrator_reference.mp3",
+    "output": "audio_output/cloned_samples/narrator_cloned.mp3"
+  }
+}

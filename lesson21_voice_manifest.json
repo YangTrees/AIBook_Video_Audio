@@ -1,0 +1,26 @@
+{
+  "lesson": "第21课-点亮聪明灯",
+  "rate": "-5%",
+  "voices": {
+    "tuantuan": "zh-CN-YunxiaNeural",
+    "diandian": "zh-CN-XiaoyiNeural",
+    "narrator": "zh-CN-XiaoxiaoNeural"
+  },
+  "segments": [
+    {"id":"upper_01_narrator","episode":"upper","scene":1,"role":"narrator","text":"今天，团团和点点来到了最酷炫的神秘光影乐园！计算机虽然是用钢铁做的，但它却拥有一个像人类一样会思考、会学习的“数字大脑”。而这个大脑的秘密，就藏在这面会变色的神奇灯光墙里！"},
+    {"id":"upper_02_diandian","episode":"upper","scene":2,"role":"diandian","text":"第21课《点亮聪明灯》！今天我们要去探寻机器能够像人类一样看懂世界、听懂语言的终极武器——“神经网络”。"},
+    {"id":"upper_03_narrator","episode":"upper","scene":3,"role":"narrator","text":"哎呀，这些小灯泡都在各亮各的，信号完全没有连在一起。如果每一个部分都只顾自己，计算机就没办法处理复杂的任务，它的大脑就会像这面混乱的灯墙一样，什么也想不明白。"},
+    {"id":"upper_04_narrator","episode":"upper","scene":4,"role":"narrator","text":"先看一看，再想一想。我们要想让灯墙变聪明，得先看看单个灯泡是怎么工作的。在AI世界里，这一个独立的小灯泡，有一个了不起的名字，叫做“神经元”。"},
+    {"id":"upper_05_narrator","episode":"upper","scene":5,"role":"narrator","text":"看！当这个“神经元小灯泡”接收到周围传来的足够多的信号时，它就会自己做出一个大决定——“把自己点亮！”并且，它还会把这股闪亮的能量，继续传递给它的邻居。"},
+    {"id":"upper_06_tuantuan","episode":"upper","scene":6,"role":"tuantuan","text":"我来试试看！把你们全都连起来！"},
+    {"id":"upper_06_diandian","episode":"upper","scene":6,"role":"diandian","text":"太棒了！当千千万万个神经元小灯泡通过发光的线条交织在一起，就组成了一个庞大的大家庭，这就是“神经网络”！"},
+    {"id":"lower_01_diandian","episode":"lower","scene":1,"role":"diandian","text":"快看，聪明灯的队伍是有严格分工的！信息就像流水一样，从最左边的“输入层”进入，在中间看不见的“隐藏层”里层层加工、层层传递，最后在最右边的“输出层”吐出正确答案。"},
+    {"id":"lower_02_diandian","episode":"lower","scene":2,"role":"diandian","text":"换个角度看，这其实就是计算机在模仿我们人类的大脑！我们的小脑袋里也有无数个这样层层相连的小细胞。神经网络，就是计算机用来模仿人类“思考”的神奇方式。"},
+    {"id":"lower_03_narrator","episode":"lower","scene":3,"role":"narrator","text":"核心知识记牢啦：神经网络是层层连接的。每一个小灯泡都是接收信号的神经元，每一层都在处理不同的信息。它们连接得越紧密，机器的思考能力就越强大！"},
+    {"id":"lower_04_narrator","episode":"lower","scene":4,"role":"narrator","text":"我们在生活里，天天都在用这种“分层思考法”！听线索、想答案、做决定——我们的大脑就是最完美的神经网络，帮我们聪明地处理生活中的每一个小挑战！"},
+    {"id":"lower_05_diandian","episode":"lower","scene":5,"role":"diandian","text":"在真正的数字世界里，手机里的AI同学就是靠着拥有几亿个灯泡的超大神经网络，在第一层看清线条，第二层看清形状，最后一层看懂你的笑脸，从而变成人类的贴心小助手的！"},
+    {"id":"lower_06_tuantuan","episode":"lower","scene":6,"role":"tuantuan","text":"把这个会思考的聪明灯魔法收进百宝箱！"},
+    {"id":"lower_06_diandian","episode":"lower","scene":6,"role":"diandian","text":"下一课，我们要去到一座极具未来感的蓝色科幻城市，去看看AI是怎么装上神奇的眼睛，像人类一样去“看懂”这个美丽世界的！我们要去探索“计算机视觉”啦，下期再见！"}
+  ]
+}
+

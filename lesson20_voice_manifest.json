@@ -1,0 +1,109 @@
+{
+  "lesson": "第20课-没有标签的玩具箱",
+  "voices": {
+    "tuantuan": "zh-CN-YunxiaNeural",
+    "diandian": "zh-CN-XiaoyiNeural",
+    "narrator": "zh-CN-XiaoxiaoNeural"
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "今天，老师不在家，也没有标准答案。团团和点点要带大家去挑战一个更酷的AI超级魔法！这个魔法不需要任何人来教，小AI就能自己去发现世界隐藏的规律，它叫——无监督学习。"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "第20课《没有标签的玩具箱》！今天我们要看看，面对一堆完全没有名字、没有说明书的神秘物品，计算机是怎么开动脑筋，自己找出正确分类的。"
+    },
+    {
+      "id": "upper_03_narrator",
+      "episode": "upper",
+      "scene": 3,
+      "role": "narrator",
+      "text": "哎呀，这个玩具箱太特别了！上面一个名字标签也没有。如果没有老师提前告诉机器“这是什么”，计算机要怎么开始学习呢？别担心，机器有它独特的“自学绝招”。"
+    },
+    {
+      "id": "upper_04_narrator",
+      "episode": "upper",
+      "scene": 4,
+      "role": "narrator",
+      "text": "先看一看，再想一想。面对没有答案的难题，聪明的AI同学不会盲目乱猜，而是会像最厉害的侦探一样，把所有物品全部请出来，仔细观察它们的细节。"
+    },
+    {
+      "id": "upper_05_narrator",
+      "episode": "upper",
+      "scene": 5,
+      "role": "narrator",
+      "text": "哇！玩具排山倒海地倒出来啦！虽然它们身上没有贴着“汽车”或者“积木”的汉字标签，但细心的小朋友一定发现了，它们其实长得各有特点。"
+    },
+    {
+      "id": "upper_06_tuantuan",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "我来试试看！红色的和红色的放在一起，圆形的和圆形的靠在一块儿！"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "对啦！虽然不知道名字，但只要观察它们的“颜色”和“形状”，就能找到彼此相似的共同特征。"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "这就叫“聚类魔法”！在AI的世界里，把长得像、功能相似的东西自动聚拢成一个新小组，就是计算机在没有标准答案时，最擅长用的归纳绝招！"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "换个角度看，这就像我们和AI的两种超能力。有老师教、拿着标准答案去学，叫做“监督学习”；没有标签、全靠自己去探索规律，就叫“无监督学习”。两种方法都超级厉害！"
+    },
+    {
+      "id": "lower_03_narrator",
+      "episode": "lower",
+      "scene": 3,
+      "role": "narrator",
+      "text": "核心知识记心间：无监督学习就像自己玩探险游戏，它不需要标准答案，机器是通过“看一看、比一比、找相似”的规律，自动把万事万物整齐地组合在一起。"
+    },
+    {
+      "id": "lower_04_narrator",
+      "episode": "lower",
+      "scene": 4,
+      "role": "narrator",
+      "text": "在生活里，我们天天都在用“无监督学习”！分袜子时按大小配对、捡贝壳时按花纹分组、水果摊按颜色分类——不用别人下命令，我们的大脑天生就会自己找规律！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "在真正的数字世界里，网络上的AI天天都在用“聚类”。它会悄悄观察大家的爱好，把喜欢听同一首儿歌、喜欢看同一本绘本的小朋友聚成一个大队伍，然后把最棒的新玩具推荐给最合适的人！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "把这个了不起的自学魔法好好藏进百宝箱！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "下一课，我们要去到一个充满梦幻光芒的科技乐园，面对一整面会变色的灯泡墙，去看看AI是怎么通过点亮一盏盏小灯，像人类大脑一样去思考和记忆的！我们要去探索“神经网络”啦，下期再见！"
+    }
+  ]
+}
+

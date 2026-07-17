@@ -1,0 +1,25 @@
+{
+  "lesson": "第23课-音量旋钮决定谁更重要",
+  "voices": {
+    "tuantuan": {"provider":"edge","voice_id":"zh-CN-YunxiaNeural"},
+    "diandian": {"provider":"minimax","voice_id":"AIBook_diandian_edge_20260715174438","speed":0.98,"vol":1.0,"pitch":1,"emotion":"happy"},
+    "narrator": {"provider":"edge","voice_id":"zh-CN-XiaoxiaoNeural"}
+  },
+  "segments": [
+    {"id":"upper_01_narrator","episode":"upper","scene":1,"role":"narrator","text":"今天，团团和点点来到了超酷的数字音乐厅！计算机虽然不会唱歌，但它却是一位超级厉害的“调音大师”。在AI的世界里，机器要从成千上万个声音里抓出最重要的信息，全靠调音台上一种神奇的“秘密旋钮”！"},
+    {"id":"upper_02_diandian","episode":"upper","scene":2,"role":"diandian","text":"第23课《音量旋钮决定谁更重要》！今天我们要去解锁人工智能神经网络里最关键的魔法平衡秤——“权重”。看看计算机是如何决定谁更重要的。"},
+    {"id":"upper_03_narrator","episode":"upper","scene":3,"role":"narrator","text":"哎呀，所有的声音都用一样大的音量放出来啦！人声、音乐、甚至连背景的风声都一样大，吵得大家根本听不清歌词。如果机器不能把重要的信息挑出来，它的大脑就会像这间屋子一样，被噪音吵得无法思考。"},
+    {"id":"upper_04_narrator","episode":"upper","scene":4,"role":"narrator","text":"先看一看，再想一想。想要听到美妙的歌曲，我们得像魔术师一样，给不同的声音分配不同的“重要程度”。在AI世界里，这个决定重要程度的音量旋钮，就叫做“权重”。"},
+    {"id":"upper_05_narrator","episode":"upper","scene":5,"role":"narrator","text":"看！当团团把“人声”的旋钮调大时，它的“权重”就变高了！在神经网络里，输入信息的权重越大，这个信息就变得越明显、越重要，直接变成了机器关注的绝对焦点！"},
+    {"id":"upper_06_tuantuan","episode":"upper","scene":6,"role":"tuantuan","text":"我来试试看！把没用的声音拧小！"},
+    {"id":"upper_06_diandian","episode":"upper","scene":6,"role":"diandian","text":"太聪明了！当把干扰信息的权重调小时，它就会乖乖地变成微弱的背景。旋钮的大小，就是权重的值，它能完美控制每一个线索的分量。"},
+    {"id":"lower_01_diandian","episode":"lower","scene":1,"role":"diandian","text":"看，这就是加权求和的魔法！计算机把“大权重的核心信息”和“小权重的背景信息”全部加在一起，就像大厨配调料一样，不多不少，刚刚好组合出最完美的最终结果！"},
+    {"id":"lower_02_diandian","episode":"lower","scene":2,"role":"diandian","text":"换个角度看，神经网络里的每一条连接线，其实都装着一个隐形的音量旋钮！粗壮的线代表权重高，信号啦啦啦流得飞快；纤细的线代表权重低。机器就是靠着数亿条连接线的粗细，来进行思考的。"},
+    {"id":"lower_03_diandian","episode":"lower","scene":3,"role":"diandian","text":"权重决定了每条信息的重要程度。调大权重，信息变主角；调小权重，信息变背景。把所有信息乘上权重加起来，就是AI做出正确决定的秘密公式！"},
+    {"id":"lower_04_narrator","episode":"lower","scene":4,"role":"narrator","text":"生活中，我们每个人也有一台隐形的“权重天平”！下雨出门时天气最重要，做蛋糕时面粉是主角，挑绘本时内容排第一——学会把重要的旋钮拧大，我们才能把生活安排得井井有条！选择穿什么衣服的时候：窗外下着暴雨，天气的权重是百分之九十九，团团立刻穿上雨衣；至于今天穿什么颜色的袜子，颜色的权重只有百分之一，就根本不重要了。做蛋糕时：团团在做小蛋糕，面粉和牛奶要放一整碗，这是核心的大权重；用来装饰的七彩糖针只需要撒一点点，这是点缀的小权重。挑故事书时：团团在书店选绘本，里面有没有好看的插画最重要，这是大权重；书本封面的底色是蓝是绿可以先不管，这是小权重。"},
+    {"id":"lower_05_diandian","episode":"lower","scene":5,"role":"diandian","text":"在真正的数字世界里，手机和智能音箱里的语音助手就是这样工作的。即使房间里再吵闹，AI的神经网络也会瞬间把噪音的权重拧到最小，把主人的声音权重开到最大，这样就能随时随地听懂你的指令啦！"},
+    {"id":"lower_06_tuantuan","episode":"lower","scene":6,"role":"tuantuan","text":"把这个决定谁更重要的权重魔法好好藏进百宝箱！"},
+    {"id":"lower_06_diandian","episode":"lower","scene":6,"role":"diandian","text":"下一课，当AI把所有重要信息加起来之后，它又是怎么像优秀的弓箭手一样，瞄准目标、绝不跑偏，做出最精准的最终判断呢？我们要去探索“偏置与预测”啦，下期再见！"}
+  ]
+}
+

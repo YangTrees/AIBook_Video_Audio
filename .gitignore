@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+audio_output/**/raw/
+audio_output/**/*_raw.mp3
+audio_output/**/*_concat.txt
+audio_output/**/concat.txt
+__pycache__/
+*.pyc
+.venv/

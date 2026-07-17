@@ -1,0 +1,50 @@
+{
+  "tuantuan": {
+    "display_name": "团团",
+    "description": "7岁男孩童声，清脆活泼",
+    "sample_text": "哇！点点快看，那颗星星正在对我们眨眼睛呢！",
+    "edge_tts": {
+      "voice": "zh-CN-YunxiaNeural",
+      "style": "cute"
+    },
+    "minimax": {
+      "voice_id": "cute_boy",
+      "speed": 1.08,
+      "vol": 1.0,
+      "pitch": 2,
+      "emotion": "happy"
+    }
+  },
+  "diandian": {
+    "display_name": "点点",
+    "description": "电子合成感，软糯清晰，萌系科技感",
+    "sample_text": "滴滴，扫描完成！前方发现一颗会唱歌的小星星。",
+    "edge_tts": {
+      "voice": "zh-CN-XiaoyiNeural",
+      "style": "lively"
+    },
+    "minimax": {
+      "voice_id": "lovely_girl",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 3,
+      "emotion": "happy"
+    }
+  },
+  "narrator": {
+    "display_name": "旁白",
+    "description": "温暖亲切的成年女声，适合低龄绘本讲述",
+    "sample_text": "夜幕轻轻落下，团团和点点踏上了一段闪闪发光的旅程。",
+    "edge_tts": {
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "style": "warm"
+    },
+    "minimax": {
+      "voice_id": "Chinese (Mandarin)_Warm_Bestie",
+      "speed": 0.9,
+      "vol": 1.0,
+      "pitch": -1,
+      "emotion": "calm"
+    }
+  }
+}

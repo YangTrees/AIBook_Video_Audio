@@ -1,0 +1,12 @@
+{
+  "voice_id": "AIBook_diandian_edge_20260715174438",
+  "edge_voice": "zh-CN-XiaoyiNeural",
+  "reference": "reference_audio/diandian_edge_clone_reference.mp3",
+  "output": "audio_output/cloned_samples/diandian_edge_cloned.mp3",
+  "minimax": {
+    "speed": 0.98,
+    "vol": 1.0,
+    "pitch": 1,
+    "emotion": "happy"
+  }
+}
