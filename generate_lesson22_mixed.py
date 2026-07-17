@@ -61,11 +61,16 @@ def minimax_tts(text: str, voice: dict, env: dict[str, str], output: Path) -> No
     output.write_bytes(bytes.fromhex(result["data"]["audio"]))
 
 
-def normalize(source: Path, output: Path) -> None:
+def normalize(source: Path, output: Path, role: str) -> None:
+    filters = {
+        "diandian": "highpass=f=100,equalizer=f=380:t=q:w=0.9:g=-2.5,equalizer=f=950:t=q:w=1.0:g=-1.5,equalizer=f=2900:t=q:w=1.1:g=2.8,equalizer=f=5200:t=q:w=1.0:g=2.0,acompressor=threshold=0.10:ratio=2.6:attack=4:release=70:makeup=1.6,loudnorm=I=-11:TP=-0.5:LRA=4",
+        "narrator": "highpass=f=70,equalizer=f=180:t=q:w=0.9:g=1.8,equalizer=f=420:t=q:w=1.0:g=1.2,equalizer=f=900:t=q:w=1.1:g=-0.8,equalizer=f=2800:t=q:w=1.0:g=1.2,acompressor=threshold=0.11:ratio=2.4:attack=8:release=110:makeup=1.4,loudnorm=I=-11.5:TP=-0.5:LRA=5",
+        "tuantuan": "loudnorm=I=-12:TP=-0.5:LRA=5",
+    }
     subprocess.run(
         [
             "ffmpeg", "-y", "-hide_banner", "-loglevel", "error",
-            "-i", str(source), "-af", "loudnorm=I=-12:TP=-0.5:LRA=5",
+            "-i", str(source), "-af", filters[role],
             "-ar", "48000", "-b:a", "192k", str(output),
         ],
         check=True,
@@ -84,10 +89,16 @@ async def main() -> None:
         raw_path = RAW / f"{segment['id']}.mp3"
         output_path = SEGMENTS / f"{segment['id']}.mp3"
         if voice["provider"] == "edge":
-            await edge_tts.Communicate(segment["text"], voice["voice_id"]).save(str(raw_path))
+            await edge_tts.Communicate(
+                segment["text"],
+                voice["voice_id"],
+                rate=voice.get("rate", "+0%"),
+                pitch=voice.get("pitch", "+0Hz"),
+                volume=voice.get("volume", "+0%"),
+            ).save(str(raw_path))
         else:
             await asyncio.to_thread(minimax_tts, segment["text"], voice, env, raw_path)
-        normalize(raw_path, output_path)
+        normalize(raw_path, output_path, segment["role"])
         episode_paths[segment["episode"]].append(output_path)
         print(f"generated: {output_path.name}")
 

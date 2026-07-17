@@ -24,11 +24,16 @@
       "style": "lively"
     },
     "minimax": {
-      "voice_id": "lovely_girl",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
       "speed": 0.98,
       "vol": 1.0,
-      "pitch": 3,
+      "pitch": 1,
       "emotion": "happy"
+    },
+    "postprocess": {
+      "profile": "bright_loud_v2",
+      "target_lufs": -11.0,
+      "true_peak_dbtp": -0.5
     }
   },
   "narrator": {
@@ -37,7 +42,10 @@
     "sample_text": "夜幕轻轻落下，团团和点点踏上了一段闪闪发光的旅程。",
     "edge_tts": {
       "voice": "zh-CN-XiaoxiaoNeural",
-      "style": "warm"
+      "style": "warm",
+      "rate": "-3%",
+      "pitch": "-8Hz",
+      "volume": "+5%"
     },
     "minimax": {
       "voice_id": "Chinese (Mandarin)_Warm_Bestie",
@@ -45,6 +53,11 @@
       "vol": 1.0,
       "pitch": -1,
       "emotion": "calm"
+    },
+    "postprocess": {
+      "profile": "magnetic",
+      "target_lufs": -11.5,
+      "true_peak_dbtp": -0.5
     }
   }
 }

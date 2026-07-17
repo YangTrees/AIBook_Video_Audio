@@ -8,5 +8,11 @@
     "vol": 1.0,
     "pitch": 1,
     "emotion": "happy"
+  },
+  "postprocess": {
+    "profile": "bright_loud_v2",
+    "reference_output": "audio_output/cloned_samples/diandian_edge_cloned_bright_loud_v2.mp3",
+    "target_lufs": -11.0,
+    "true_peak_dbtp": -0.5
   }
 }
