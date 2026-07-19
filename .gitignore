@@ -8,3 +8,13 @@ audio_output/**/concat.txt
 __pycache__/
 *.pyc
 .venv/
+
+# Local GitHub authentication helpers and secrets
+setup_git_pat.local.ps1
+.git-auth.local*
+
+# Generated voice assets and local TTS dependencies
+.tts_deps/
+audio_output/lesson*/
+audio_output/role_samples/*.mp3
+audio_output/role_samples/*.txt

@@ -1,0 +1,142 @@
+{
+  "lesson": "第12课-找bug的小修理工",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "清晨的阳光洒进小小的机械工作室。今天，团团和点点要在这里变身成厉害的“技术修理工“！不管是现实里的机器，还是数字世界里的超级电脑，只要生病了，都逃不过我们今天要去寻找的“修复魔法“！"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "第12课《找bug的小修理工》！今天我们要去解锁计算机世界里最著名的全自动纠错大本领。去把那些藏在暗处、让机器卡壳的“小捣蛋鬼“一个接一个地揪出来！"
+    },
+    {
+      "id": "upper_03_narrator",
+      "episode": "upper",
+      "scene": 3,
+      "role": "narrator",
+      "text": "哎呀，履带卡住了，警示灯也亮了，小机器人完全动弹不得！在人工智能和计算机的世界里，这种让程序突然停下、或者变得奇奇怪怪的“小错误“，有一个超级响亮的名字，叫做——“Bug“！"
+    },
+    {
+      "id": "upper_04_diandian",
+      "episode": "upper",
+      "scene": 4,
+      "role": "diandian",
+      "text": "优秀的修理工和聪明的AI同学一样，在看到机器人坏了之后，不会瞎敲乱打，而是要顺着线索仔细观察，找出螺丝松掉的真正秘密。"
+    },
+    {
+      "id": "upper_05_tuantuan",
+      "episode": "upper",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "这里看起来还有问题，让我把松动的螺丝扭紧。"
+    },
+    {
+      "id": "upper_05_diandian",
+      "episode": "upper",
+      "scene": 5,
+      "role": "diandian",
+      "text": "太棒了！这种“找到Bug、动手改正、让它重新跑起来“的神奇过程，在计算机科学里，就叫做——“调试“！"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "听说很久很久以前，世界上第一台超级电脑突然不工作了，科学家叔叔们检查了半天，竟然从机器的缝隙里夹出了一只真正的小飞蛾！从那以后，大家就把电脑里的小错误统称为“Bug（虫子）“，把找错误叫做“调试（抓虫子）“啦！"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "换个角度看，不只是机器人，电脑程序也天天都在经历这种考验呢！"
+    },
+    {
+      "id": "lower_01_diandian_02",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "没错，程序员叔叔就是最厉害的代码修理工。当电脑屏幕弹出报错弹窗时，他们就会启动调试魔法，在海量的字母里找到那个写错的Bug，把它改回正确的模样。"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "调试就是找到Bug并修复。它有四个严格的科学步骤：第一步发现问题，第二步找到原因，第三步动手修改，第四步重新再试！要把每一步都仔细记牢，下次遇到同样的麻烦，就能一秒钟搞定！"
+    },
+    {
+      "id": "lower_03_narrator",
+      "episode": "lower",
+      "scene": 3,
+      "role": "narrator",
+      "text": "在生活里，我们也天天都在用“调试魔法“！"
+    },
+    {
+      "id": "lower_03_tuantuan",
+      "episode": "lower",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "做三明治时发现步骤颠倒的Bug，进行调试，把顺序重新调整好，就能做出最美味的早餐。发现错误改过来，你就是最棒的首席修理工！"
+    },
+    {
+      "id": "lower_04_diandian",
+      "episode": "lower",
+      "scene": 4,
+      "role": "diandian",
+      "text": "在真正的数字世界里，现在的无人机、火星车和超级人工智能，也拥有强大的“自我调试引擎“！它们在运行复杂程序时，每秒钟都在进行自我检查。一旦发现代码里有逻辑冲突，AI就会在零点几秒内完成“自我诊断与自我修复“，重新快乐地奔跑起来！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "修理工小课堂进入最后大盘点！今天我们一共收获了三件超级法宝：第一，我们认识了让机器卡壳的“Bug小魔虫”；第二，知道了第一只躲在电脑里的小飞蛾故事；第三，也是最厉害的，我们学会了用“调试四步骤”去战胜它们！"
+    },
+    {
+      "id": "lower_05_tuantuan",
+      "episode": "lower",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "哈哈，这下全部记在脑海里啦，以后再也不怕遇到小错误了！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "把这个不怕犯错、随时修正的调试魔法好好藏进百宝箱！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "下期再见！"
+    }
+  ]
+}

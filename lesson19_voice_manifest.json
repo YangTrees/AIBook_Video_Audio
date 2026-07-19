@@ -1,0 +1,114 @@
+{
+  "lesson": "第19课-贴标签的老师",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "今天，团团和点点要带大家认识一位神奇的“魔法老师“。在数字世界里，刚开始懵懵懂懂的AI计算机，就是靠这位老师带来的“特制贴纸“，学会分辨世界上万种物品的！"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "第19课《贴标签的老师》！今天我们要解锁计算机最经典的通用学习法——“监督学习“。也就是让机器通过带有正确答案的材料，进行有标准的学习。"
+    },
+    {
+      "id": "upper_03_tuantuan",
+      "episode": "upper",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "看，如果直接把一堆水果放在机器面前，它的眼睛里只有花花绿绿的像素，根本分不清什么是苹果、什么是橘子。没有老师的指引，计算机的大脑就会陷入一片混乱。"
+    },
+    {
+      "id": "upper_04_diandian",
+      "episode": "upper",
+      "scene": 4,
+      "role": "diandian",
+      "text": "别着急，看老师的秘密武器！这些写着名字的贴纸，在AI世界里有一个专业的科技名字，叫做“标签“。标签，就是老师提前准备好的“标准答案“。"
+    },
+    {
+      "id": "upper_05_diandian",
+      "episode": "upper",
+      "scene": 5,
+      "role": "diandian",
+      "text": "当老师把“苹果“标签贴在红苹果上时，计算机看到的就不再只是红色的圆形，它第一次把“红色的外观“和“苹果这个名字“紧紧地锁定在了一起！"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "看，这就是监督学习的超级公式！“数据 + 标签 = 完美的训练材料“。计算机通过海量这样带有正确答案的材料进行练习，就能自己总结出认物的小规律啦！"
+    },
+    {
+      "id": "lower_01_narrator",
+      "episode": "lower",
+      "scene": 1,
+      "role": "narrator",
+      "text": "但是，贴标签一定要非常严谨。如果老师不小心把苹果贴成了“橘子“，计算机就会学到错误的规律，以后见到苹果也会叫错。标签越清楚、越准确，AI学得才越聪明！"
+    },
+    {
+      "id": "lower_02_narrator",
+      "episode": "lower",
+      "scene": 2,
+      "role": "narrator",
+      "text": "核心知识记心间：监督学习就是“有标准答案的学习“。它需要用准确的标签告诉计算机每条数据的真实身份。老师教得准，机器才能认得对！"
+    },
+    {
+      "id": "lower_03_narrator",
+      "episode": "lower",
+      "scene": 3,
+      "role": "narrator",
+      "text": "生活中，我们每个人都是“监督学习“的小天才！妈妈指着卡片教你认动物、老师在作业本上帮你改错别字、红绿灯告诉我们通行的规则——这些藏在生活里的标准答案，也在随时随地帮我们学习新知识。"
+    },
+    {
+      "id": "lower_04_narrator",
+      "episode": "lower",
+      "scene": 4,
+      "role": "narrator",
+      "text": "现在，轮到我们自己动手啦。小朋友，你也可以拿出手边的玩具卡片，试着像老师一样给它们贴上整齐的标签，组建一个你自己的“监督学习训练集“吧！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "在真正的科技世界里，成千上万的科学家和数据工程师每天都在做着同样的工作。正是因为有了这些人工标注的精准标签，无人驾驶汽车才能看懂马路，安全地把我们送到目的地。"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "把这个了不起的标签魔法收进百宝箱！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "下一课，如果没有老师，也没有标签贴纸，小AI该怎么自己去把乱七八糟的玩具箱整理干净呢？我们要去挑战“无监督学习“啦，下期再见！"
+    }
+  ]
+}

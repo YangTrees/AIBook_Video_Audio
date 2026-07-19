@@ -66,6 +66,11 @@ def normalize(source: Path, output: Path, role: str) -> None:
         "diandian": "highpass=f=100,equalizer=f=380:t=q:w=0.9:g=-2.5,equalizer=f=950:t=q:w=1.0:g=-1.5,equalizer=f=2900:t=q:w=1.1:g=2.8,equalizer=f=5200:t=q:w=1.0:g=2.0,acompressor=threshold=0.10:ratio=2.6:attack=4:release=70:makeup=1.6,loudnorm=I=-11:TP=-0.5:LRA=4",
         "narrator": "loudnorm=I=-11.5:TP=-0.5:LRA=5",
         "tuantuan": "loudnorm=I=-12:TP=-0.5:LRA=5",
+        "administrator": "loudnorm=I=-11.5:TP=-0.5:LRA=5",
+        "postman": "loudnorm=I=-11.5:TP=-0.5:LRA=5",
+        "kaikai": "loudnorm=I=-11.5:TP=-0.5:LRA=5",
+        "guanguan": "loudnorm=I=-11.5:TP=-0.5:LRA=5",
+        "chorus": "loudnorm=I=-11.5:TP=-0.5:LRA=5",
     }
     subprocess.run(
         [

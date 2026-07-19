@@ -1,0 +1,34 @@
+{
+  "lesson":"第4课-仓库管理员机器人（配音扩充）",
+  "source":"D:/PROJECTS/_AI/AIBook_Script/小云雀分镜（全集）/第4课-仓库管理员机器人（配音扩充）.md",
+  "voices":{
+    "tuantuan":{"provider":"edge","voice_id":"zh-CN-YunxiaNeural"},
+    "diandian":{"provider":"minimax","voice_id":"AIBook_diandian_edge_20260715174438","speed":0.98,"vol":1.0,"pitch":1,"emotion":"happy"},
+    "narrator":{"provider":"edge","voice_id":"zh-CN-XiaoxiaoNeural"},
+    "administrator":{"provider":"edge","voice_id":"zh-CN-YunyangNeural"}
+  },
+  "segments":[
+    {"id":"upper_01_narrator","episode":"upper","scene":1,"role":"narrator","text":"小朋友们！今天，团团和点点来到了一座超级巨大的神秘仓库。听说这里住着一位神秘的仓库管理员机器人，他要带我们去解开一个超级厉害的“存储”大魔法哦！"},
+    {"id":"upper_02_tuantuan","episode":"upper","scene":2,"role":"tuantuan","text":"哇，点点！你快看，这里面怎么有这么多一格一格、整整齐齐的格子墙呀？它们是用来做什么的呢？"},
+    {"id":"upper_02_diandian","episode":"upper","scene":2,"role":"diandian","text":"嘿嘿，团团，这就是电脑的“存储”基地呀！所谓的存储，就是把各种各样的信息，像摆放小玩具一样，规规矩矩地全部装进这些整齐的格子里！"},
+    {"id":"upper_03_tuantuan","episode":"upper","scene":3,"role":"tuantuan","text":"哇——！这儿的格子也太多了吧，根本数也数不清呀！"},
+    {"id":"upper_03_administrator","episode":"upper","scene":3,"role":"administrator","text":"哈哈，欢迎你们，小客人们！这里是电脑专属的“记忆仓库”，而我，就是这里的仓库管理员！所有电脑需要记住的事情，都由我来保管！"},
+    {"id":"upper_04_narrator","episode":"upper","scene":4,"role":"narrator","text":"看，送货小机器人送来了好多闪闪发光的信息卡片。管理员机器人伸出大手，把卡片一张接一张、整整齐齐地塞进空格子里。每放好一张，小格子就会亮一下！瞧，卡片放进格子里，信息就被电脑存储起来啦！"},
+    {"id":"upper_04_tuantuan","episode":"upper","scene":4,"role":"tuantuan","text":"噢！我明白啦，原来存储就是让信息卡片乖乖住进格子里！"},
+    {"id":"upper_05_tuantuan","episode":"upper","scene":5,"role":"tuantuan","text":"一、二、三、四……哇，这里还有空的格子呢！"},
+    {"id":"upper_05_diandian","episode":"upper","scene":5,"role":"diandian","text":"团团，这些格子的总数量，在电脑世界里就叫做“容量”！如果格子越多，就代表仓库的容量越大，能够存储和记住的东西也就越多哦！"},
+    {"id":"upper_06_administrator","episode":"upper","scene":6,"role":"administrator","text":"是的，不过机器的记忆仓库也是有限度的，每一张新来的卡片，都必须要有一个属于自己的小格子住进去才行。"},
+    {"id":"upper_06_tuantuan","episode":"upper","scene":6,"role":"tuantuan","text":"啊？糟糕了！点点你快看，格子墙好像快要被塞满了！哎呀呀，数一数，居然只剩下最后六个空格子了！这可怎么办呀？"},
+    {"id":"lower_01_tuantuan","episode":"lower","scene":7,"role":"tuantuan","text":"既然格子不够用了，那我们有没有什么神奇的办法，能把这些大大的信息卡片，变得小一点、再小一点，让他们少占一些地方呢？"},
+    {"id":"lower_01_diandian","episode":"lower","scene":7,"role":"diandian","text":"哈哈，团团你太聪明了！当然有办法啦！电脑里有一项非常了不起的超级魔法，它的名字叫做——压缩！它能把同样多的信息，装进更小的身体里！"},
+    {"id":"lower_02_diandian","episode":"lower","scene":8,"role":"diandian","text":"看！魔法生效啦！经过压缩之后，原本塞得满满当当的格子墙，一下子就空出了一大半的空间！现在，我们又可以轻松装进更多更多的新卡片了！"},
+    {"id":"lower_02_tuantuan","episode":"lower","scene":8,"role":"tuantuan","text":"哇，太神奇了！原来压缩就是用更短、更聪明的符号来给卡片“瘦身”，信息一点儿都没少，体积却变小了！"},
+    {"id":"lower_03_diandian","episode":"lower","scene":9,"role":"diandian","text":"太棒了！今天的记忆仓库大冒险收获满满！小朋友们，让我们一起来复习今天学到的三个超级大魔法吧！"},
+    {"id":"lower_03_tuantuan","episode":"lower","scene":9,"role":"tuantuan","text":"第一，“存储”就是把信息乖乖放进格子里；第二，“容量”就是格子的总数量；第三，“压缩”就是把同样多的信息装得更小、更省空间！"},
+    {"id":"lower_04_diandian","episode":"lower","scene":10,"role":"diandian","text":"其实啊，小朋友们每天接触的电脑和AI，随时随地都在用这种方法工作哦！我们听的音乐、拍的照片、还有玩的网络游戏，在电脑里面全都被切成了一个个小信息，整整齐齐地存放在格子里，就像大家整理自己的玩具箱一样呢！"},
+    {"id":"lower_05_diandian","episode":"lower","scene":11,"role":"diandian","text":"只要我们学会了合理运用存储、容量和压缩的规则，就能把原本乱糟糟的数字世界，整理得井井有条、又清楚又高效！这就是属于仓库管理员机器人的终极整理魔法！"},
+    {"id":"lower_05_administrator","episode":"lower","scene":11,"role":"administrator","text":"再见啦，聪明的小伙伴们！"},
+    {"id":"lower_06_tuantuan","episode":"lower","scene":12,"role":"tuantuan","text":"太好玩啦！我要把今天学到的存储大魔法，完好地收藏在我的第四课秘密档案袋里！"},
+    {"id":"lower_06_diandian","episode":"lower","scene":12,"role":"diandian","text":"哈哈，下一课，我们要去认识数字世界里非常神奇的小方块——“像素”！拜拜！"}
+  ]
+}

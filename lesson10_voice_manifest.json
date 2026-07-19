@@ -1,0 +1,198 @@
+{
+  "lesson": "第10课-会数数的清洁机器人",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "清晨，阳光洒进房间。团团正揉着眼睛，打着哈欠走进来。"
+    },
+    {
+      "id": "upper_01_diandian",
+      "episode": "upper",
+      "scene": 1,
+      "role": "diandian",
+      "text": "团团快醒醒！今天有一位圆滚滚的机器人新朋友，要带我们一起去探索超神奇的逻辑魔法哦！"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "我们要学习第10课——《会数数的清洁机器人》！去寻找一个叫“循环”的秘密。"
+    },
+    {
+      "id": "upper_02_tuantuan",
+      "episode": "upper",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "哇，瞧它面前的白色几何模型！点点，难道我们今天要找的秘密和清洁维护有关吗？"
+    },
+    {
+      "id": "upper_03_tuantuan",
+      "episode": "upper",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "可是天天手动刷啊刷，总是一下又一下重复相同的动作，感觉好麻烦呀……"
+    },
+    {
+      "id": "upper_03_diandian",
+      "episode": "upper",
+      "scene": 3,
+      "role": "diandian",
+      "text": "别担心！如果让电脑来指挥重复的动作，它可有一套绝招，快看机器人的示范！"
+    },
+    {
+      "id": "upper_04_narrator",
+      "episode": "upper",
+      "scene": 4,
+      "role": "narrator",
+      "text": "瞧！清洁机器人开始工作啦。"
+    },
+    {
+      "id": "upper_04_tuantuan",
+      "episode": "upper",
+      "scene": 4,
+      "role": "tuantuan",
+      "text": "哇！它一边清理，头上还一边跳出数字：1、2、3！"
+    },
+    {
+      "id": "upper_04_diandian",
+      "episode": "upper",
+      "scene": 4,
+      "role": "diandian",
+      "text": "没错！它在数着次数，一遍又一遍地重复同一个步骤，这就是“循环”！"
+    },
+    {
+      "id": "upper_05_tuantuan",
+      "episode": "upper",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "我明白了！原来循环就是“重复执行”的意思！"
+    },
+    {
+      "id": "upper_05_diandian",
+      "episode": "upper",
+      "scene": 5,
+      "role": "diandian",
+      "text": "对啦！电脑和机器人最擅长做重复的事情了。只要给它一个循环的指令，它就能不知疲倦地一直做下去。"
+    },
+    {
+      "id": "upper_06_tuantuan",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "快看这张图！左边排着好多各种毛刷，最后汇聚成了一个闪亮的模型！"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "这就是循环的奇妙之处。不用写一万行重复的命令，用最简单的循环指令，就能搞定重复的大任务，让它焕然一新！"
+    },
+    {
+      "id": "lower_01_narrator",
+      "episode": "lower",
+      "scene": 1,
+      "role": "narrator",
+      "text": "团团拿起彩色蜡笔，把刚学到的规则在画纸上连成了一个圈。"
+    },
+    {
+      "id": "lower_01_tuantuan",
+      "episode": "lower",
+      "scene": 1,
+      "role": "tuantuan",
+      "text": "一遍一遍清理，直到干净为止！"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "太棒了！“重复做同一个步骤，直到达到目标”，这就是我们在设计循环逻辑哦。"
+    },
+    {
+      "id": "lower_02_tuantuan",
+      "episode": "lower",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "不仅是清洁工作，生活中好像也有很多这样一动不动、重复发生的事情呢。"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "当然啦！你看，我们走路时双脚交替前行、打印机一张张打印、闹钟每天按时滴答转圈，全都是循环的魔法！"
+    },
+    {
+      "id": "lower_03_tuantuan",
+      "episode": "lower",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "那计算机和AI，也用这种一样的循环来工作吗？"
+    },
+    {
+      "id": "lower_03_diandian",
+      "episode": "lower",
+      "scene": 3,
+      "role": "diandian",
+      "text": "是的！它们在运行复杂程序时，把这些循环模块整齐地组合起来。只要满足了条件，就会一遍遍重复，直到任务完美达成！"
+    },
+    {
+      "id": "lower_04_diandian",
+      "episode": "lower",
+      "scene": 4,
+      "role": "diandian",
+      "text": "看，在神奇的数字世界里，复杂的电脑芯片就是由“开始、计数、循环、停止”组成的程序流，重复高效的处理信息，这可是计算机最强大的本领！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "今天我们学到了三个魔法：第一，循环是重复做同一个步骤；第二，循环可以通过“数着次数”或者“做到为止”来完成；第三，生活中处处有循环！"
+    },
+    {
+      "id": "lower_05_tuantuan",
+      "episode": "lower",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "我都记牢啦，循环就是高效地重复！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "我要把今天学的循环魔法，好好收进第10课的百宝箱里！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "下一课，我们要去到一家热闹的披萨店，一起去发现新的AI秘密——“排序：把东西排成整齐的队伍”！我们下期再见啦！"
+    }
+  ]
+}

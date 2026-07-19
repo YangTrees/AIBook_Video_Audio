@@ -1,0 +1,135 @@
+{
+  "lesson": "第8课-雾气里的照片",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "今天，团团和点点来到一个特别的地方——这里到处都是白蒙蒙的雾！可是这雾让什么东西都看不清了……"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "我们今天要学习第8课——《雾气里的照片》！猜猜看，这个白蒙蒙的东西是什么？它会对我们造成什么影响？"
+    },
+    {
+      "id": "upper_03_tuantuan",
+      "episode": "upper",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "照片里有个人影……可是看不清是谁！"
+    },
+    {
+      "id": "upper_04_diandian",
+      "episode": "upper",
+      "scene": 4,
+      "role": "diandian",
+      "text": "这个照片不清楚，是因为里面有噪声，我们可以重新拍一张试试"
+    },
+    {
+      "id": "upper_05_diandian",
+      "episode": "upper",
+      "scene": 5,
+      "role": "diandian",
+      "text": "雾就像给窗户蒙了一层纱，挡住了我们的视线！这种干扰叫做噪声！"
+    },
+    {
+      "id": "upper_05_tuantuan",
+      "episode": "upper",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "原来雾就是噪声！它让东西变得模糊看不清！"
+    },
+    {
+      "id": "upper_06_tuantuan",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "在信息世界中，照片模糊看不清，声音嘈杂听不清，其实都是噪声在捣乱！"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "噪声就是所有干扰信息的东西！信息越不清晰，判断就越容易出错！"
+    },
+    {
+      "id": "lower_01_tuantuan",
+      "episode": "lower",
+      "scene": 1,
+      "role": "tuantuan",
+      "text": "我明白了，要想拍出清晰的照片，就得先去掉噪声！"
+    },
+    {
+      "id": "lower_02_tuantuan",
+      "episode": "lower",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "AI也会被噪声影响吗？"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "AI虽然很聪明，但也怕噪声！如果给AI看模糊照片，它无法准确判断——这就是噪声的坏影响！"
+    },
+    {
+      "id": "lower_03_diandian",
+      "episode": "lower",
+      "scene": 3,
+      "role": "diandian",
+      "text": "你知道吗？电脑和AI也会被噪声影响！如果给AI学错误数据，结果也是错的！这就是'垃圾进，垃圾出'！如果想让AI给出好的结果，就得给它清晰的数据哦"
+    },
+    {
+      "id": "lower_04_diandian",
+      "episode": "lower",
+      "scene": 4,
+      "role": "diandian",
+      "text": "认识了噪声，就能分辨什么是清楚的信息、什么是被干扰的模糊信息——这就是对抗噪声的魔法！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "今天我们学到了三个魔法：第一，噪声是混在信息里的干扰！第二，噪声让信息变模糊、不清晰，判断就容易出错！第三，信息越清晰、越准确，AI判断越靠谱！记住了吗？"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "我要把今天学的噪声知识收藏起来！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "下一课，红灯停绿灯行——我们继续去发现新的AI小秘密！"
+    }
+  ]
+}

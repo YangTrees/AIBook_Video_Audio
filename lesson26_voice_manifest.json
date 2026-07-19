@@ -1,0 +1,114 @@
+{
+  "lesson": "第26课-给AI的清楚指令",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "小朋友们，计算机虽然掌握了无数的魔法，但它需要听懂人类的话才能帮我们改变世界。今天，我们就来解锁控制AI大助手最厉害的终极钥匙——“提示词“。"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "第26课《给AI的清楚指令》！今天我们要去学习一门驾驭AI的超级学问，叫做“提示词工程“。看看怎么用嘴说出魔法，让机器分毫不差地变出我们想要的宝贝！"
+    },
+    {
+      "id": "upper_03_narrator",
+      "episode": "upper",
+      "scene": 3,
+      "role": "narrator",
+      "text": "哎呀，这是什么呀？团团明明只是对机器说了一句“画一只猫“，怎么画图机却变出了一只长了翅膀的“绿色小怪猫“呢？人工智能并不是故意调皮，而是因为人类给它的命令太模糊，它只能在数据世界里胡乱猜谜啦！"
+    },
+    {
+      "id": "upper_04_narrator",
+      "episode": "upper",
+      "scene": 4,
+      "role": "narrator",
+      "text": "先看一看，再想一想。给机器下命令可不能随随便便。在AI世界里，我们对机器说的话、下的指令，有一个专属的名字叫做“提示词“。模糊的指令，只会带来模糊的乱套结果。要想得到好宝贝，我们就得把提示词写得清清楚楚。"
+    },
+    {
+      "id": "upper_05_narrator",
+      "episode": "upper",
+      "scene": 5,
+      "role": "narrator",
+      "text": "看！团团这次调整了策略。他不再只说一个词，而是把小猫的颜色、脸型、动作和环境全都精确地描述了出来。这就像给迷路的航船亮起了一座灯塔，计算机瞬间抓住了所有关键特征，准备大展身手！"
+    },
+    {
+      "id": "upper_06_tuantuan",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "哇！这次一拍即合，变得太准确啦！"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "太棒了！这就是清晰指令带来的魔法。清晰的提示词能够锁死机器的自学空间，让它不再瞎猜，直接给出最完美的标准答案！"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "记住提示词的三大魔法规则！清晰的指令一定要做到具体、明确、不含糊！不能让机器猜你的心思。描述得越细致，AI大助手的表现就会越惊艳！"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "换个角度看，写提示词就像在学校里发布明确的通告。如果你只说“画动物“或者“放音乐“，机器就会像无头苍蝇一样随便乱播；但如果你把颜色、种类、甚至是听音乐的场景都告诉它，它就能成为最懂你的贴心秘书。"
+    },
+    {
+      "id": "lower_03_narrator",
+      "episode": "lower",
+      "scene": 3,
+      "role": "narrator",
+      "text": "核心知识记牢啦：模糊的指令等于模糊的结果，清晰的指令才能带来清晰的结果。我们要学会用具体、明确、不含糊的语言和机器沟通。在人工智能时代，这门调教AI的伟大本领，就叫做“提示词工程“！"
+    },
+    {
+      "id": "lower_04_narrator",
+      "episode": "lower",
+      "scene": 4,
+      "role": "narrator",
+      "text": "在生活里，我们也天天在当“提示词工程师“！点餐时讲清不要洋葱、帮妈妈拿书时对准颜色和层数、做游戏时讲清规则——把话说明白、把指令下清晰，人类之间的沟通才能少出误会，高效又快乐！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "在真正的数字世界里，“提示词工程“已经成了未来人类必备的超级生存技能！未来的计算机不需要你学会复杂的电脑代码，只要你拥有清晰的逻辑和具体的表达能力，敲几行字，你就能成为指挥AI千军万马的超级科学家和艺术家！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "太棒啦！我们已经收集了26课的百宝箱了，小朋友们，下节课见！"
+    }
+  ]
+}

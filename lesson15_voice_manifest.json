@@ -1,0 +1,128 @@
+{
+  "lesson": "第15课-猜一猜明天带伞吗",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "小研究员们，早安！今天，团团和点点要带大家变身成最敏锐的“AI天气预报员“。一闭上眼睛，窗外的天空就变得灰蒙蒙的。这时候，我们该怎么像聪明的科学家一样，提前知道明天出门要不要带伞呢？"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "第15课《猜一猜明天带伞吗》！今天我们要去解锁人工智能超级大脑里最实用的魔法绝招——“预测“。去明白计算机是如何利用已经发生过的事情，聪明的看穿未来的！"
+    },
+    {
+      "id": "upper_03_narrator",
+      "episode": "upper",
+      "scene": 3,
+      "role": "narrator",
+      "text": "哎呀，天色越来越黑了，明天到底会不会下雨呢？未来的天气变化无常，如果没有规律可循，我们出门就只能全凭运气去猜。别慌，计算机在面对未知的事情时，也有一套通过“数据翻旧账“来找答案的超级引擎！"
+    },
+    {
+      "id": "upper_04_narrator",
+      "episode": "upper",
+      "scene": 4,
+      "role": "narrator",
+      "text": "先看一看，再想一想。想要猜对未来，我们必须先学会观察过去。AI计算机在做预测之前，会先把以前收集到的海量天气“历史数据“全部请出来，仔细在里面寻找规律。"
+    },
+    {
+      "id": "upper_05_narrator",
+      "episode": "upper",
+      "scene": 5,
+      "role": "narrator",
+      "text": "看！第一个小规律被抓出来啦！在历史记录里，每次只要天空中乌云密布，过不了多久，地面上就会哗啦啦地下起雨来。这种“只要看到乌云，就很可能会下雨“的因果连接，就是计算机在大数据里总结出来的“黄金预测公式“。"
+    },
+    {
+      "id": "upper_06_narrator",
+      "episode": "upper",
+      "scene": 6,
+      "role": "narrator",
+      "text": "世界上没有绝对完美的预测，这就叫“不确定性“！就算有70%的概率下雨，也依然有30%的可能会是晴天。但是，我们喂给AI的线索越多、历史信息越丰富，机器的预测就会变得越来越靠谱！"
+    },
+    {
+      "id": "lower_01_narrator",
+      "episode": "lower",
+      "scene": 1,
+      "role": "narrator",
+      "text": "核心知识记牢啦：预测就是根据以前的数据和规律来猜未来的大魔法。但是预测带有不确定性，并不是百分之百的绝对保证。想要让预测变得更精准，我们就必须去收集更多、更全面的有效信息！"
+    },
+    {
+      "id": "lower_02_tuantuan",
+      "episode": "lower",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "看，根据前几天的天气规律，下周四和下周五也极有可能会下雨呢！"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "太聪明了！根据找到的周期规律，我们就可以预测天气，提早把明天的雨具准备好啦。"
+    },
+    {
+      "id": "lower_03_diandian",
+      "episode": "lower",
+      "scene": 3,
+      "role": "diandian",
+      "text": "这个了不起的预测魔法，在我们的数字生活里天天都在大显身手！"
+    },
+    {
+      "id": "lower_03_diandian_02",
+      "episode": "lower",
+      "scene": 3,
+      "role": "diandian",
+      "text": "手机里的天气预报，是千千万万台计算机共同计算出来的预测成果；AI天天都在根据路上的车辆，预测哪条马路不堵车；甚至根据你的习惯，预测你接下来想看什么动画片。"
+    },
+    {
+      "id": "lower_04_diandian",
+      "episode": "lower",
+      "scene": 4,
+      "role": "diandian",
+      "text": "当知识的小灯在脑海里彻底点亮，未来的迷雾就会变得清清楚楚。不论明天的天气是下雨还是天晴，只要掌握了数据预测的智慧，我们就能做好最完美的准备，无忧无虑地去探索这个神奇的世界！"
+    },
+    {
+      "id": "lower_05_narrator",
+      "episode": "lower",
+      "scene": 5,
+      "role": "narrator",
+      "text": "今天我们学到了三个重要的智慧：第一，预测就是用过去的数据寻找规律、猜想未来。第二，预测带有不确定性，需要用概率来表达。第三，知道的信息越多，预测出来的结果就越准确！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "把这个能看穿未来的天气预测魔法好好藏进百宝箱！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "下一课，我们要去认识一只只知道死记硬背、结果在考试中闹出大笑话的“复读机大鹦鹉“！我们要去探索“背答案的鹦鹉——认识过拟合“啦，下期再见！"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "lesson": "第7课-行李箱装不下啦",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "今天，团团和点点要出去旅行啦！可是团团遇到了一个小麻烦……"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "我们今天要学习第7课——《行李箱装不下啦》！猜猜看，有什么办法能让行李箱装下更多东西？答案就藏在整理的方法里哦！"
+    },
+    {
+      "id": "upper_03_tuantuan",
+      "episode": "upper",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "这么多东西，行李箱根本装不下！运动服占地方，玩具又鼓鼓的……"
+    },
+    {
+      "id": "upper_03_diandian",
+      "episode": "upper",
+      "scene": 3,
+      "role": "diandian",
+      "text": "别担心！我们来想办法！"
+    },
+    {
+      "id": "upper_04_diandian",
+      "episode": "upper",
+      "scene": 4,
+      "role": "diandian",
+      "text": "压缩可以节省空间哦，可以尝试先把物品都做下压缩。"
+    },
+    {
+      "id": "upper_05_narrator",
+      "episode": "upper",
+      "scene": 5,
+      "role": "narrator",
+      "text": "团团把衣服卷一卷、压一压、叠整齐……一件件放回行李箱。"
+    },
+    {
+      "id": "upper_05_tuantuan",
+      "episode": "upper",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "哇！箱子空出好大一块地方！"
+    },
+    {
+      "id": "upper_05_diandian",
+      "episode": "upper",
+      "scene": 5,
+      "role": "diandian",
+      "text": "这就是压缩——把东西变小，省出空间！"
+    },
+    {
+      "id": "upper_06_tuantuan",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "同样多行李，为什么有大有小？"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "因为右边被压缩过了！在信息世界，也是如此，压缩就是在保持重要信息的同时，让文件变小！"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "太棒了！我们已经学会了“压缩“的魔法！这就是本课的核心：压缩是把文件变小的技术！无损压缩——东西一件没少，只是整理了！有损压缩——去掉不太重要的，重要的还在！压缩太多，重要的细节可能丢失！生活中处处有压缩！"
+    },
+    {
+      "id": "lower_02_tuantuan",
+      "episode": "lower",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "看！衣服还是完好的，只是整理了一下！"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "这就是无损压缩——东西一件没少，只是整理了！"
+    },
+    {
+      "id": "lower_02_tuantuan_02",
+      "episode": "lower",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "但是我放弃了一部分零食。"
+    },
+    {
+      "id": "lower_02_diandian_02",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "这就是有损压缩——去掉了一些不太重要的东西！"
+    },
+    {
+      "id": "lower_03_diandian",
+      "episode": "lower",
+      "scene": 3,
+      "role": "diandian",
+      "text": "你知道吗？电脑和AI也会用压缩来处理信息。照片、音乐、游戏——都可以压缩！高压缩文件小但可能模糊，低压缩文件大但清楚！"
+    },
+    {
+      "id": "lower_04_diandian",
+      "episode": "lower",
+      "scene": 4,
+      "role": "diandian",
+      "text": "看！学会了压缩，就能把信息整理得又整齐又清楚——这就是压缩的魔法！"
+    },
+    {
+      "id": "lower_05_narrator",
+      "episode": "lower",
+      "scene": 5,
+      "role": "narrator",
+      "text": "今天我们学到了三个魔法：第一，压缩是把文件变小的技术！第二，无损压缩——东西一件没少，只是整理了！第三，有损压缩——去掉不太重要的，重要的还在！记住了吗？"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "我要把今天学的压缩魔法收藏起来！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "下一课，雾气里的照片——我们继续去发现新的AI小秘密！"
+    }
+  ]
+}

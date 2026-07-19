@@ -1,0 +1,128 @@
+{
+  "lesson": "第17课-学校里的AI同学",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "今天，团团和点点来到了神奇的AI学校！这里的小AI同学也要像我们一样读书考试呢，我们要一起发现一个关于“练习“和“考试“的小秘密。"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "第17课《学校里的AI同学》！我们要认识两个魔法工具：一个是用来练习的“训练集“，一个是用来检验的“测试集“。"
+    },
+    {
+      "id": "upper_03_diandian",
+      "episode": "upper",
+      "scene": 3,
+      "role": "diandian",
+      "text": "哎呀，不好了！AI小同学把“练习题“和“考试题“全混在一起啦！而且，它还悄悄看到了红卡片背后的答案！这下子它虽然把题都猜对了，可它的小脑袋其实根本没有真正学会呀。"
+    },
+    {
+      "id": "upper_04_narrator",
+      "episode": "upper",
+      "scene": 4,
+      "role": "narrator",
+      "text": "团团和点点开始大显身手啦！他们要把这些题目“大分类“——带答案的练习题放左边，没答案的考试题放右边。如果不把它们分开，AI小同学就没办法练出真本事啦！"
+    },
+    {
+      "id": "upper_05_diandian",
+      "episode": "upper",
+      "scene": 5,
+      "role": "diandian",
+      "text": "看左边的这堆练习题，在AI世界里有一个威风的名字，叫作“训练集“！它就像小朋友天天写的练习册，AI同学要通过它反复做题、寻找规律，练出最扎实的基本功，就像小朋友背九九乘法表一样重要！"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "这堆红色的新题目，就叫作“测试集“！它呀，是完全陌生的“考试卷“。这里绝对不能偷看答案，它是检验AI真本事的地方，不能偷看答案，只有靠AI同学自己动脑筋把它们做出来，才能证明它真正学会了。"
+    },
+    {
+      "id": "upper_07_diandian",
+      "episode": "upper",
+      "scene": 7,
+      "role": "diandian",
+      "text": "记住最重要的魔法规则——训练集和测试集，绝对不能重叠！因为偷看了答案，考试就失效啦！"
+    },
+    {
+      "id": "upper_07_tuantuan",
+      "episode": "upper",
+      "scene": 7,
+      "role": "tuantuan",
+      "text": "练习题是练习题，考试题是考试题，两边要用防护盾牢牢隔开！如果考试题里偷偷混进了做过的练习题，那考试可就作弊失效啦！"
+    },
+    {
+      "id": "lower_01_narrator",
+      "episode": "lower",
+      "scene": 1,
+      "role": "narrator",
+      "text": "这就像你们学习一样，练习时可以看书，但考试时要靠自己的大脑。练习帮我们学，考试帮我们确认。"
+    },
+    {
+      "id": "lower_02_narrator",
+      "episode": "lower",
+      "scene": 2,
+      "role": "narrator",
+      "text": "核心知识记住啦：训练集帮我们掌握方法，测试集帮我们确认成果，练习和考试，缺一不可！"
+    },
+    {
+      "id": "lower_03_diandian",
+      "episode": "lower",
+      "scene": 3,
+      "role": "diandian",
+      "text": "就像踢球，练运球是准备，比赛射门才是考验；画画时，描红是练习，自己画出来才是真的学会；做饭时，妈妈教我们切菜是练习，自己做出美味的沙拉才是学会做菜！这就是AI和我们一样的学习智慧！"
+    },
+    {
+      "id": "lower_04_narrator",
+      "episode": "lower",
+      "scene": 4,
+      "role": "narrator",
+      "text": "聪明的团团已经完全学会啦！他把这些动物卡片也分成两堆，一堆用来平时认小动物，另一堆藏起来当明天的考试题。小朋友也试着把练习题和考题分一分吧！把刚学到的方法用起来，你也会变得更聪明。"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "看！这些你们身边的AI也是这么学习的哦——手机拍花朵识别，是用很多花儿的照片训练出来的，但我们拿一朵它从没见过的花去拍，它也能认出来；平板学英语跟读，是用很多语音数据训练的，但你说一句新句子它也能听懂；智能音箱也是这样，练习过的词它会说，没练过的口令它也能回应——这就是AI通过“训练+测试”获得的真本事！"
+    },
+    {
+      "id": "lower_05_tuantuan",
+      "episode": "lower",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "原来我们每天用的AI，也是靠“练习+考试“学会的啊！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "下节课，我们去马戏团看AI表演，那里还有更多神奇的秘密，不见不散！"
+    }
+  ]
+}

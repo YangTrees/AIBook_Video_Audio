@@ -1,0 +1,114 @@
+{
+  "lesson": "第18课-小狗学握手",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "清晨的马戏团里，精彩的表演马上就要开始啦！今天，团团和点点要带大家认识一位能用“魔法“学习的新朋友。这个魔法很厉害，它叫“强化学习“。"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "第18课《小狗学握手》！我们要帮小狗开启“强化学习“的智慧之门——也就是通过不断地“试一试“去换取“正确的奖励“，从而让身体记住最正确的行为。"
+    },
+    {
+      "id": "upper_03_tuantuan",
+      "episode": "upper",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "驯兽师的指令，小狗一开始根本听不懂。它在原地绕圈、趴下、甚至摇尾巴，这些都是它在盲目地“试错“。如果没有反馈，它就会一直迷路。"
+    },
+    {
+      "id": "upper_04_diandian",
+      "episode": "upper",
+      "scene": 4,
+      "role": "diandian",
+      "text": "这时候，小狗停下来，把驯兽师的指令和自己的动作连接起来。聪明的AI在遇到难题时，也是需要这样先安静地思考哦。"
+    },
+    {
+      "id": "upper_05_narrator",
+      "episode": "upper",
+      "scene": 5,
+      "role": "narrator",
+      "text": "瞧！在无数次乱动中，小狗“偶然“做对了一个动作——它抬起了爪子！驯兽师立刻抓住了这个宝贵的瞬间，把一块香喷喷的饼干送到了它嘴边。"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "小狗的大脑里瞬间亮起了一道光！这就是“学习循环“：小狗大胆试一试（就是：尝试），驯兽师奖励给它好吃的（就是：反馈），它的大脑立刻记住（这就是：记忆）——原来这个动作能带来好运！"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "奖励机制，是强化学习的核心密码！做对了，奖励函数就会给它大大的“加分“；做错了，就没有奖励。通过算分，小狗就能在心里画出一张完美的通关地图。"
+    },
+    {
+      "id": "lower_02_narrator",
+      "episode": "lower",
+      "scene": 2,
+      "role": "narrator",
+      "text": "核心知识记牢啦：强化学习不需要人类手把手去教每一个细节，而是让机器像小狗一样，在每一次“尝试、反馈、记录再调整“的循环中，自己找到最棒的解题方法！"
+    },
+    {
+      "id": "lower_03_narrator",
+      "episode": "lower",
+      "scene": 3,
+      "role": "narrator",
+      "text": "不仅小狗和AI会这一招，我们人类也是这样长大的！踢球时进球的快乐、弹琴时美妙的声音、收玩具时得到的夸奖，这些“精神奖励“都在强化我们的好习惯，让我们越来越棒！"
+    },
+    {
+      "id": "lower_04_narrator",
+      "episode": "lower",
+      "scene": 4,
+      "role": "narrator",
+      "text": "小朋友们，如果你也想学会一项新本领，不妨也像AI同学一样，给自己设计一个“试错成长计划“和“通关小奖励“吧！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "在数字世界里，科学家们也是用这种方法，让AI学会了下围棋、甚至驾驶无人驾驶汽车！通过成千上万次的自我奖励，电脑就能进化得超级强大。"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "把这个了不起的魔法收进百宝箱！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "下一课，我们要去到一个神秘的超级仓库。我们下期再见啦！"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "lesson": "第2课-开关城的两兄弟",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_tuantuan",
+      "episode": "upper",
+      "scene": 1,
+      "role": "tuantuan",
+      "text": "哇，点点快看！这座城堡的灯光在一闪一闪地呼吸呢，好漂亮啊！"
+    },
+    {
+      "id": "upper_01_diandian",
+      "episode": "upper",
+      "scene": 1,
+      "role": "diandian",
+      "text": "嘿嘿，这就是开关城！里面藏着计算机世界最神奇的数字魔法哦，我们快进去吧！"
+    },
+    {
+      "id": "upper_02_narrator",
+      "episode": "upper",
+      "scene": 2,
+      "role": "narrator",
+      "text": "开开（活泼地蹦跳）：嗨！我是开开，我的代号是1，我出来大家就会“开“起来！"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "今天我们要学习第2课，认识这对掌管电脑开关的神秘两兄弟！"
+    },
+    {
+      "id": "upper_03_tuantuan",
+      "episode": "upper",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "我发现了！1就像灯亮、门开、有声音，代表“开“和“有“！"
+    },
+    {
+      "id": "upper_03_diandian",
+      "episode": "upper",
+      "scene": 3,
+      "role": "diandian",
+      "text": "完全正确！0就代表灯灭、门关、没声音。在生活和电脑里，它们就是超厉害的两选一！"
+    },
+    {
+      "id": "upper_04_tuantuan",
+      "episode": "upper",
+      "scene": 4,
+      "role": "tuantuan",
+      "text": "点点你看，只要让开开和关关交换位置，黑白卡片的排列顺序就变了呀！"
+    },
+    {
+      "id": "upper_04_diandian",
+      "episode": "upper",
+      "scene": 4,
+      "role": "diandian",
+      "text": "对啦！别看它们长得简单，只要排起队来，不同的顺序就能变成完全不一样的数字暗号！"
+    },
+    {
+      "id": "upper_05_tuantuan",
+      "episode": "upper",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "快看街上的路灯！它们亮一下、灭一下，连起来像是在对我们眨眼睛、传暗号呢！"
+    },
+    {
+      "id": "upper_05_diandian",
+      "episode": "upper",
+      "scene": 5,
+      "role": "diandian",
+      "text": "亮是1，灭是0，这一串串明灭的灯光，就是正在飞向夜空的信息河流哦！"
+    },
+    {
+      "id": "upper_06_tuantuan",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "两节车厢能拼出4种不同的组合……点点，如果车厢变多，拼出的花样是不是也变多啦？"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "团团太聪明了！数字排队的位数越多，电脑能拼出来的花样和秘密就越多！"
+    },
+    {
+      "id": "lower_01_tuantuan",
+      "episode": "lower",
+      "scene": 1,
+      "role": "tuantuan",
+      "text": "哇，太神奇了！卡片只要换个位置，上面竟然会蹦出小花和小房子！"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "这就是电脑的底层逻辑！每一种不同的0和1队列，都可以代表电脑里的一个不同想法。"
+    },
+    {
+      "id": "lower_02_tuantuan",
+      "episode": "lower",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "看！我用0和1拼出了一只神气的小猫！电视机前的小朋友们，你们也快来动手试一试吧！"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "不管是小猫还是小树，只要大家亲手摆一摆，就能摸到最神奇的排队魔法！"
+    },
+    {
+      "id": "lower_03_tuantuan",
+      "episode": "lower",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "点点，原来我们在爸爸妈妈手机里看到的可爱表情，背后也是0和1吗？"
+    },
+    {
+      "id": "lower_03_diandian",
+      "episode": "lower",
+      "scene": 3,
+      "role": "diandian",
+      "text": "没错！只要0和1排好长长的队伍，连人类奇妙的心情和表情，电脑都能帮我们表达出来！"
+    },
+    {
+      "id": "lower_04_tuantuan",
+      "episode": "lower",
+      "scene": 4,
+      "role": "tuantuan",
+      "text": "天哪！原来好玩的电脑游戏和动画片拆开来，全都是亮晶晶的0和1小精灵啊！"
+    },
+    {
+      "id": "lower_04_diandian",
+      "episode": "lower",
+      "scene": 4,
+      "role": "diandian",
+      "text": "对呀，电脑就是用这支了不起的0和1大队伍，来帮我们表示、存储和传递丰富多彩的世界呢！"
+    },
+    {
+      "id": "lower_05_tuantuan",
+      "episode": "lower",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "今天我全都记牢啦！1代表开，0代表关；只要它们排成队，就能装下数不清的秘密！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "完全正确！0和1排好队，就是电脑世界最厉害、最基础的小语言！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "把秘密收好！小朋友们跟我一起大声念口诀——开开关关，信息变魔法！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "下一课，我们要去看信息怎么穿上神奇的“编码小外套“！大家下期再见啦！"
+    }
+  ]
+}

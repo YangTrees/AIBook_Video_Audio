@@ -1,0 +1,142 @@
+{
+  "lesson": "第6课-红绿蓝灯的合唱团",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "小朋友们好！今天，团团和点点来到一个特别的地方——彩色灯光的魔法舞台！这里有三个好伙伴，要教我们一个超厉害的魔法！"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "我们今天要学习第6课——《红绿蓝灯的合唱团》！猜猜看，红、绿、蓝三种颜色混在一起会变成什么？答案就在灯光里哦！"
+    },
+    {
+      "id": "upper_03_narrator",
+      "episode": "upper",
+      "scene": 3,
+      "role": "narrator",
+      "text": "红精灵跳出来挥挥手：“我是红色！“绿精灵跳出来：“我是绿色！“蓝精灵跳出来：“我是蓝色！"
+    },
+    {
+      "id": "upper_03_tuantuan",
+      "episode": "upper",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "哇！三个小精灵！"
+    },
+    {
+      "id": "upper_04_diandian",
+      "episode": "upper",
+      "scene": 4,
+      "role": "diandian",
+      "text": "电脑中的五彩缤纷的颜色都是由红、绿、蓝三精灵这三个小精灵组合成的呢。"
+    },
+    {
+      "id": "upper_05_tuantuan",
+      "episode": "upper",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "这原来电脑中的画面都是由R、G、B这三个小精灵组合成的呢"
+    },
+    {
+      "id": "upper_06_tuantuan",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "这只有三个颜色小精灵，他们是怎么变成其他颜色的呢？"
+    },
+    {
+      "id": "upper_06_narrator",
+      "episode": "upper",
+      "scene": 6,
+      "role": "narrator",
+      "text": "红精灵兴奋地跳向绿精灵：我想和绿精灵抱一抱！两个精灵紧紧拥抱——噗！变成了一道明亮的黄色光！"
+    },
+    {
+      "id": "upper_06_tuantuan_02",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "哇！红色加绿色变成黄色了！"
+    },
+    {
+      "id": "lower_01_narrator",
+      "episode": "lower",
+      "scene": 1,
+      "role": "narrator",
+      "text": "三个精灵异口同声：“我们三个一起抱抱！“三精灵紧紧拥抱——噗！舞台突然亮得刺眼，变成了一道耀眼的白色光芒！"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "红加绿加蓝就变成白色光啦！"
+    },
+    {
+      "id": "lower_02_tuantuan",
+      "episode": "lower",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "红精灵和绿精灵抱在一起——变成黄色光芒！绿色加蓝色变成青色，红色加蓝色变成紫色，红绿蓝在一起变成白色——RGB三兄弟变出了所有颜色！"
+    },
+    {
+      "id": "lower_03_diandian",
+      "episode": "lower",
+      "scene": 3,
+      "role": "diandian",
+      "text": "我们现在屏幕上看到的各种色彩缤纷的画面，都是由着三个小精灵组成。"
+    },
+    {
+      "id": "lower_04_diandian",
+      "episode": "lower",
+      "scene": 4,
+      "role": "diandian",
+      "text": "你知道吗？电脑和AI也是用RGB来显示颜色的。手机屏幕、电视屏幕——全都靠红、绿、蓝三盏灯的不同组合，就能变出上百万种颜色！"
+    },
+    {
+      "id": "lower_05_narrator",
+      "episode": "lower",
+      "scene": 5,
+      "role": "narrator",
+      "text": "今天我们学到了三个魔法：第1，RGB三原色：红、绿、蓝；第2，混合公式：红+绿=黄，绿+蓝=青，红+蓝=紫，红+绿+蓝=白！;第3，屏幕上的画面都是是由RGB三原色混合组成的；"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "我要把今天学的RGB魔法收藏起来！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "下一课，我们继续去发现新的AI小秘密，压缩——行李箱装不下！"
+    }
+  ]
+}

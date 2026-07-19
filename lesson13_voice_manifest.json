@@ -1,0 +1,128 @@
+{
+  "lesson": "第13课-袜子大整理",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "早安！欢迎来到团团的房间。瞧，衣柜里的小袜子们今天调皮地打起架来了，堆在一起乱成了一团乱麻。别发愁，在神奇的AI世界里，机器想要认识成千上万的新事物，第一步要学会的，就是我们今天的“整理大魔法“——“分类“。"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "第13课《袜子大整理》！今天，我们要去解锁人工智能看清万事万物的核心密码。去明白怎么按照某种神奇的细节特征，把相似的东西归到一起！"
+    },
+    {
+      "id": "upper_03_narrator",
+      "episode": "upper",
+      "scene": 3,
+      "role": "narrator",
+      "text": "哎呀，黑的、白的、花的小袜子全混在了一起，就像一堆没有经过排版的杂乱密码，让人头晕目眩。面对这种乱糟糟的无序状态，AI计算机也需要一套高效率的“分类规则“来帮忙。"
+    },
+    {
+      "id": "upper_04_tuantuan",
+      "episode": "upper",
+      "scene": 4,
+      "role": "tuantuan",
+      "text": "我来试试看，先给它们找找相同点！"
+    },
+    {
+      "id": "upper_04_diandian",
+      "episode": "upper",
+      "scene": 4,
+      "role": "diandian",
+      "text": "太棒了！动手是自学的开始。团团你发现了第一个重要线索——物体的“颜色“特征！"
+    },
+    {
+      "id": "upper_05_diandian",
+      "episode": "upper",
+      "scene": 5,
+      "role": "diandian",
+      "text": "瞧，整理好啦！这就叫分类。在人工智能的世界里，分类可不是瞎猜，它是机器根据物体的某种特征，把长得像、功能相似的东西自动打包放到一个新分组里的过程。"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "团团你可真棒。换个角度看，大自然物体的秘密可不止一个！同一个问题，只要我们换一种特征规则，分类产生的结果就会完全不一样！我们可以看它的颜色，也可以看它的厚薄。多维度的观察，能让AI大助手变得更加灵活。"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "注意啦，选对特征是分类的关键！好的特征就像一把锋利的剪刀，能一下把不同的事物彻底区分开；而坏的特征，就会让机器犯糊涂，根本没办法精准分组！"
+    },
+    {
+      "id": "lower_02_narrator",
+      "episode": "lower",
+      "scene": 2,
+      "role": "narrator",
+      "text": "看，当混乱被注入了科学的秩序，生活就会变得亮堂堂。有了分类的智慧，不仅衣柜变得井然有序，我们在生活中还能解锁更多好玩的分类游戏呢！"
+    },
+    {
+      "id": "lower_03_narrator",
+      "episode": "lower",
+      "scene": 3,
+      "role": "narrator",
+      "text": "这个奇妙的分类魔法在我们的生活里无处不在！小朋友们，你也可以拿出一盒积木，试着按颜色把它们分成红蓝绿，或者按形状分成圆和方。每分好一堆，你的大脑就进行了一次了不起的算法训练！"
+    },
+    {
+      "id": "lower_04_diandian",
+      "episode": "lower",
+      "scene": 4,
+      "role": "diandian",
+      "text": "在真正的科技世界里，计算机也是靠着这一招来认清整个地球的！现在的智能摄像头和AI机器人，一睁开眼睛，背后的分类神经网络就会疯狂运转。它们在几毫秒内抓取物体的边缘特征，把路人、车辆、红绿灯精准地各归其位，从而保障城市的智慧运行。"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "叮咚！《袜子大整理》进入最后大盘点！今天我们一共收获了三个分类核心小密码：第一，分类要先观察，找到物体的“核心特征“；第二，把“相似的东西归到一起“就叫分类；第三，记住哦，“分类的规则不同，产生的结果就会完全不同“！"
+    },
+    {
+      "id": "lower_05_tuantuan",
+      "episode": "lower",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "哈哈，这下全部牢牢记在脑海里啦！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "把这个化无序为整齐的分类魔法好好藏进百宝箱！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "下一课，我们要去探索“特征放大镜——认识特征“啦，下期再见！"
+    }
+  ]
+}

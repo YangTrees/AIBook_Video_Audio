@@ -1,0 +1,226 @@
+{
+  "lesson": "第11课-做披萨的流水线",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "今天，团团和点点来到了一家热闹的披萨店！"
+    },
+    {
+      "id": "upper_01_tuantuan",
+      "episode": "upper",
+      "scene": 1,
+      "role": "tuantuan",
+      "text": "好香啊！不知道今天这里藏着什么神奇的AI小秘密？"
+    },
+    {
+      "id": "upper_02_narrator",
+      "episode": "upper",
+      "scene": 2,
+      "role": "narrator",
+      "text": "哎呀，怎么乱成这样了？原来小机器人想一下子把披萨做出来，结果搞砸了。"
+    },
+    {
+      "id": "upper_02_tuantuan",
+      "episode": "upper",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "天呐，这么多工作混在一起，小机器人的脑袋都要死机了。"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "别急！这就是我们今天要学的第11课——《做披萨的流水线》！我们要学会给任务进行“分解“瘦身！"
+    },
+    {
+      "id": "upper_03_narrator",
+      "episode": "upper",
+      "scene": 3,
+      "role": "narrator",
+      "text": "要把大任务做好，首先得看清它是由哪些部分组成的。"
+    },
+    {
+      "id": "upper_03_tuantuan",
+      "episode": "upper",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "面团、酱汁、芝士、配料……原来大披萨是由这些简单的小材料一步步组合出来的呀！"
+    },
+    {
+      "id": "upper_04_narrator",
+      "episode": "upper",
+      "scene": 4,
+      "role": "narrator",
+      "text": "没错，这就是“任务分解“！把做一个大披萨的任务，拆成一个接一个的小步骤。"
+    },
+    {
+      "id": "upper_04_tuantuan",
+      "episode": "upper",
+      "scene": 4,
+      "role": "tuantuan",
+      "text": "先做面饼，再涂酱、撒芝士、加配料，最后放进烤箱！"
+    },
+    {
+      "id": "upper_04_diandian",
+      "episode": "upper",
+      "scene": 4,
+      "role": "diandian",
+      "text": "对！每一步只专心做一件简单的小事，这样机器人就不会混乱啦。"
+    },
+    {
+      "id": "upper_05_tuantuan",
+      "episode": "upper",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "哇，把大任务拆开连起来，就像一个清晰的魔法圆圈！"
+    },
+    {
+      "id": "upper_05_diandian",
+      "episode": "upper",
+      "scene": 5,
+      "role": "diandian",
+      "text": "这就是任务分解的规则！如果把复杂的工作拆成简单的小步骤，那么大任务就会变得很容易。电脑和AI也是用这种流程图来拆解工作、执行规则的！"
+    },
+    {
+      "id": "upper_06_narrator",
+      "episode": "upper",
+      "scene": 6,
+      "role": "narrator",
+      "text": "现在，把拆好的小步骤放上自动传送带，神奇的协作魔法就要发生了！"
+    },
+    {
+      "id": "upper_06_tuantuan",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "每个步骤卡片都在自己的位置上排好队了。"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "这就是“流水线“！每个人或者每个机器只负责其中一步，披萨在传送带上挪动，工作就能不停地往下传，效率特别高！"
+    },
+    {
+      "id": "lower_01_tuantuan",
+      "episode": "lower",
+      "scene": 1,
+      "role": "tuantuan",
+      "text": "点点，这两个图标长得不一样耶？它们代表什么呀？"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "这是流水线的两种绝招！右边一个接一个按顺序做，叫做“串行“；左边像烤披萨和倒饮料这样同时进行，叫做“并行“！"
+    },
+    {
+      "id": "lower_01_narrator",
+      "episode": "lower",
+      "scene": 1,
+      "role": "narrator",
+      "text": "串行按顺序，并行省时间，两种配合起来，工作做得又快又好！"
+    },
+    {
+      "id": "lower_02_tuantuan",
+      "episode": "lower",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "太棒啦！香喷喷的超级大披萨成功做出来啦！"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "大厨和机器人们都在为我们欢呼呢！看，只要把任务合理分解，用好流水线的串行和并行，大困难也能变成小胜利！"
+    },
+    {
+      "id": "lower_03_tuantuan",
+      "episode": "lower",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "原来不只是做披萨，生活中到处都可以用到任务分解的智慧。你看，就像我准备早餐，也是分成烤面包、煎蛋、倒牛奶、装沙拉好几步呢！"
+    },
+    {
+      "id": "lower_03_diandian",
+      "episode": "lower",
+      "scene": 3,
+      "role": "diandian",
+      "text": "太聪明了！学会把大工作拆成小步骤，你就能把所有事情都理得清清楚楚。。"
+    },
+    {
+      "id": "lower_04_tuantuan",
+      "episode": "lower",
+      "scene": 4,
+      "role": "tuantuan",
+      "text": "数字世界里也有做披萨的传送带吗？"
+    },
+    {
+      "id": "lower_04_diandian",
+      "episode": "lower",
+      "scene": 4,
+      "role": "diandian",
+      "text": "当然啦！计算机和AI的大脑里有无数个多核处理器，它们把海量的数据和复杂的任务“分解“开，像流水线一样同时处理，所以才运行得这么快！"
+    },
+    {
+      "id": "lower_05_narrator",
+      "episode": "lower",
+      "scene": 5,
+      "role": "narrator",
+      "text": "今天的披萨店之旅让我们收获满满，快来复习一下核心魔法吧！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "第一，流水线是把大工作分成一步一步；第二，串行是按顺序一个接一个；第三，并行是不同事情同时进行！"
+    },
+    {
+      "id": "lower_05_tuantuan",
+      "episode": "lower",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "把大任务分解开，电脑和我们都能变厉害！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "我要把今天学到的流水线大魔法，好好存进第11课的百宝箱里。"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "收好啦！下一课，我们要去到一间神秘的工作室，去发现新的AI小秘密——“调试：找到问题并修好它“！我们下期再见啦！"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "lesson": "第14课-特征放大镜",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "小探险家们，快快集合啦！今天，团团和点点要带大家去玩一场“数字侦探大游戏“，看穿大自然万事万物藏着的秘密。"
+    },
+    {
+      "id": "upper_02_narrator",
+      "episode": "upper",
+      "scene": 2,
+      "role": "narrator",
+      "text": "第14课《特征放大镜》！今天我们要去解锁计算机看懂世界万物、甚至能认出每个人面孔的核心魔法——“特征“。去明白怎么利用事物的独特线索，把它们清清楚楚地分出来。"
+    },
+    {
+      "id": "upper_03_narrator",
+      "episode": "upper",
+      "scene": 3,
+      "role": "narrator",
+      "text": "看！当面对长得都有眼睛、有鼻子的猫和狗时，计算机该怎么把它们明确区分开来呢？在AI和科学的世界里，能够用来区分事物的“独特线索“，就叫做——“特征“。"
+    },
+    {
+      "id": "upper_04_tuantuan",
+      "episode": "upper",
+      "scene": 4,
+      "role": "tuantuan",
+      "text": "这太有趣了，我也想动手试一试！"
+    },
+    {
+      "id": "upper_04_diandian",
+      "episode": "upper",
+      "scene": 4,
+      "role": "diandian",
+      "text": "注意哦，特征也有聪明和糊涂的区别，有些能帮机器一下就分清楚，有些却会把机器绕晕。这就叫特征的“区分度“！"
+    },
+    {
+      "id": "upper_05_tuantuan",
+      "episode": "upper",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "我知道啦！小猫有长长的猫胡须，小狗喜欢高高地摇尾巴，它们的声音也完全不一样！"
+    },
+    {
+      "id": "upper_05_diandian",
+      "episode": "upper",
+      "scene": 5,
+      "role": "diandian",
+      "text": "对啦！这就是“显著特征提取“！选对特征，机器就能一秒钟认出谁是谁。"
+    },
+    {
+      "id": "upper_06_tuantuan",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "如果把不同的特征组合在一起，AI大助手还能认得出来吗？"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "当然可以，当AI认识了“豹子“和“翅膀“这些特征，这张图AI就会识别为“长翅膀的花豹“。这在人工智能世界里，就叫“模式分类“！多维度的观察，能让计算机变得更加灵活。"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "核心知识记心间：找特征就像在玩“找不同“。AI在看一个新事物时，会自动把这些颜色、形状等各种线索抽取成一排“特征向量“，变成机器能听懂的数据。就比如“长翅膀的豹子“。"
+    },
+    {
+      "id": "lower_02_tuantuan",
+      "episode": "lower",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "哇！当所有的好特征被放大，整个世界都变得清晰起来了！"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "看，这就是特征大魔法的威力。好的特征必须具备强大的“特征区分度“，能一招搞定分类难题！"
+    },
+    {
+      "id": "lower_03_diandian",
+      "episode": "lower",
+      "scene": 3,
+      "role": "diandian",
+      "text": "这个奇妙的魔法在生活里也天天在用！瞧，面对苹果和橘子，我们已经学会用下面的属性卡片来辨认它们了——看颜色、比形状、甚至摸摸皮肤的粗糙度，好特征一下就把它们分开了！"
+    },
+    {
+      "id": "lower_04_diandian",
+      "episode": "lower",
+      "scene": 4,
+      "role": "diandian",
+      "text": "在真正的数字世界里，所有的AI科技全都在偷偷使用“特征放大镜“！现在的自动驾驶车背后的算法就会通过特征在一毫秒内把路人、车辆、建筑、道路都识别出来，从而聪明地认出整个世界！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "叮咚！《特征放大镜》进入最后大盘点！"
+    },
+    {
+      "id": "lower_05_tuantuan",
+      "episode": "lower",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "第一，特征就是能帮我们区分事物的独特线索；第二，找特征就像玩“找不同“，看谁最细心；第三，好的特征必须具有“高区分度“，能一招搞定分类难题！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "把这个能看穿细节的特征放大镜好好藏进百宝箱！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "下期再见！"
+    }
+  ]
+}

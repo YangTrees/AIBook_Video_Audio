@@ -1,0 +1,30 @@
+{
+  "lesson": "第7课-行李箱装不下啦（配音扩充·更新版）",
+  "source": "D:/PROJECTS/_AI/AIBook_Script/小云雀分镜（全集）/第7课-行李箱装不下啦（配音扩充）.md",
+  "voices": {
+    "tuantuan": {"provider": "edge", "voice_id": "zh-CN-YunxiaNeural"},
+    "diandian": {"provider": "minimax", "voice_id": "AIBook_diandian_edge_20260715174438", "speed": 0.98, "vol": 1.0, "pitch": 1, "emotion": "happy"},
+    "narrator": {"provider": "edge", "voice_id": "zh-CN-XiaoxiaoNeural"}
+  },
+  "segments": [
+    {"id":"upper_01_narrator","episode":"upper","scene":1,"role":"narrator","text":"天气真好呀！今天团团和点点马上就要出发去旅行啦！可是，团团看着房间里的衣服、鞋子还有各种玩具，正站在那里不知所措呢……"},
+    {"id":"upper_02_narrator","episode":"upper","scene":2,"role":"narrator","text":"欢迎来到第7课《行李箱装不下啦》！面对眼前这个怎么塞也塞不进去的大家伙，点点今天决定要带大家去寻找一个神奇的“空间魔法”。屏幕前的小朋友，快来一起动脑筋猜猜看，到底有什么绝妙的好办法，能让这个小小的行李箱装下更多的东西呢？其实，答案就藏在聪明的科学整理方法里哦！"},
+    {"id":"upper_03_tuantuan","episode":"upper","scene":3,"role":"tuantuan","text":"我的运动服、厚厚的绘本、毛绒小熊还有这么多好吃的零食……我真的通通都想带走，一个也不想留下来呀！如果把这些大大小小的东西直接硬塞进去，我的箱子根本就装不下！"},
+    {"id":"upper_03_narrator","episode":"upper","scene":3,"role":"narrator","text":"别担心，旁边的点点已经准备好来帮你想好办法了！"},
+    {"id":"upper_04_diandian","episode":"upper","scene":4,"role":"diandian","text":"在看不见的AI和数字世界里，有一门超级厉害的通用技术叫做“压缩”。只要我们先把这些松软多余的物品像这样用力叠起来，把里面的空气排出去，就能神奇地省出超级多的多余空间哦！"},
+    {"id":"upper_05_narrator","episode":"upper","scene":5,"role":"narrator","text":"团团跟着点点的提示开始大显身手啦！他把那些原本蓬松肥大的外套用力卷一卷、压一压，再把厚重的绘本平平整整地堆叠在一起……哇，把它们重新整齐地放回行李箱之后，奇迹发生啦！箱子里竟然奇迹般地空出了好大一块空地！你看，这就是压缩的强大规则——把东西的体积变小，就能帮我们省出大量的宝贵空间！"},
+    {"id":"upper_06_tuantuan","episode":"upper","scene":6,"role":"tuantuan","text":"明明带的是完全一样多的行李，为什么左边的箱子看起来那么庞大，而右边的却显得这么小巧呢？"},
+    {"id":"upper_06_narrator","episode":"upper","scene":6,"role":"narrator","text":"原来呀，右边的行李已经通过魔法压缩过了！在神秘的信息网络世界里也是一模一样的道理，压缩就是能够在保持住所有重要内容的同时，让文件变得又轻又小，方便我们传输和储存！"},
+    {"id":"lower_01_diandian","episode":"lower","scene":7,"role":"diandian","text":"太棒啦！我们现在已经成功了解了“数据压缩”核心原理！简单来说，压缩就是一种专门把文件体积变小的技术。如果里面的东西一样都不少、只是重新排队整理，这就叫“无损压缩”；但如果为了节省更多空间而忍痛丢掉一些不太重要的零食，这就变成了“有损压缩”。不过要注意，如果压缩得太厉害，很多珍贵的细节可就会丢失不见啦！"},
+    {"id":"lower_02_tuantuan","episode":"lower","scene":8,"role":"tuantuan","text":"快看，我的衣服全都完好无损，只是被我整理得更紧凑了！"},
+    {"id":"lower_02_diandian","episode":"lower","scene":8,"role":"diandian","text":"没错，这就叫无损压缩——东西一件没少，只是整理了！"},
+    {"id":"lower_02_narrator","episode":"lower","scene":8,"role":"narrator","text":"不过，团团又摸了摸地上的小饼干。"},
+    {"id":"lower_02_tuantuan_02","episode":"lower","scene":8,"role":"tuantuan","text":"但我放弃了一部分零食。"},
+    {"id":"lower_02_diandian_02","episode":"lower","scene":8,"role":"diandian","text":"这就叫有损压缩——虽然去掉了一些不太重要的东西，但它能确保我们顺利出发呀！"},
+    {"id":"lower_03_diandian","episode":"lower","scene":9,"role":"diandian","text":"其实在看不见的数字世界里，电脑和AI每天都在用压缩技术来处理海量的信息。我们平时看的美丽照片、听的动听音乐、玩的手机游戏——通通都可以被压缩！如果压缩得太厉害，文件会变得特别小，但画面可能会有一点点模糊；如果保持低压缩，文件虽然很大，但看起来就会非常清楚，这都需要科学家进行聪明的平衡哦！"},
+    {"id":"lower_04_diandian","episode":"lower","scene":10,"role":"diandian","text":"只要学会了科学的压缩魔法，再庞大、再杂乱无章的数字信息，也能被整理得又整齐又清楚，这就是对抗拥挤最酷的AI秩序魔法！"},
+    {"id":"lower_05_diandian","episode":"lower","scene":11,"role":"diandian","text":"今天我们学到了三个魔法：第一，压缩是一门专门负责把文件体积变小的了不起技术；第二，无损压缩就是里面的内容一样都没有少，只是被重新排队整理整齐了；第三，有损压缩则是为了省空间，去掉一些不重要的次要细节，把核心保留下来。小朋友们，你们都牢牢记住了吗？"},
+    {"id":"lower_06_tuantuan","episode":"lower","scene":12,"role":"tuantuan","text":"我要把今天学的压缩魔法收藏起来！"},
+    {"id":"lower_06_diandian","episode":"lower","scene":12,"role":"diandian","text":"下一课，雾气里的照片——我们继续去发现新的AI小秘密！"}
+  ]
+}

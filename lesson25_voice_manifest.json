@@ -1,0 +1,128 @@
+{
+  "lesson": "第25课-会接话的鹦鹉2.0",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "今天，团团和点点要带大家去认识一只藏在数字世界里的“百变大鹦鹉“！现在的电脑不仅会唱歌，还能像人类一样和我们聊天。不过，这位AI聊天高手，其实每天都在玩一个超级好玩的“接话大游戏“呢！"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "第25课《会接话的鹦鹉2.0》！今天我们要去解锁大语言模型最核心的说话密码。看看计算机究竟是怎么猜出人类接下来想要说什么话的。"
+    },
+    {
+      "id": "upper_03_narrator",
+      "episode": "upper",
+      "scene": 3,
+      "role": "narrator",
+      "text": "哎呀，太神奇了！团团的话明明才讲了一半，智能音箱竟然一秒钟就接上了下半句。它是会读心术吗？它怎么知道团团接下来要吐出哪个词呢？其实，这并不是因为机器真的听懂了，而是因为它在暗中发功“猜“答案。"
+    },
+    {
+      "id": "upper_04_narrator",
+      "episode": "upper",
+      "scene": 4,
+      "role": "narrator",
+      "text": "先看一看，再想一想。想要知道机器接话的秘密，得先看看它读过多少书。在AI的世界里，这只“数字大鹦鹉“在诞生之前，老师会喂给它成千上万、多到数不清的文章。读的书越多，它记下来的“文字规律“就越丰富。"
+    },
+    {
+      "id": "upper_05_narrator",
+      "episode": "upper",
+      "scene": 5,
+      "role": "narrator",
+      "text": "看！当听到“花儿“这个词时，机器脑海里的文字大数据库就会飞速算账：在人类的历史上，“花儿“后面跟着“开了“的次数最多！所以，“开了“的胜出概率高达99%！机器就是用这种数数字的统计学规律，抓出那个最可能出现的词来接话的。"
+    },
+    {
+      "id": "upper_06_tuantuan",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "哇，科学问题它也能接得天衣无缝！"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "没错，因为在机器读过的科学课本里，“月亮是“后面跟着“岩石和尘埃“的概率最高。只要前文给的线索足够多，这只2.0版本的超级大鹦鹉就能吐出极其精准的标准答案！"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "糟糕，大鹦鹉说瞎话啦！昨晚明明是弯月，它为什么非要说“真圆“呢？"
+    },
+    {
+      "id": "lower_01_narrator",
+      "episode": "lower",
+      "scene": 1,
+      "role": "narrator",
+      "text": "这就是大语言模型最著名的致命弱点，叫做“幻觉“！因为在它的经验里，“月亮真“后面跟着“圆“是最顺口的概率。它只管句子顺不顺，却不知道昨晚外面的真实世界到底是什么样。"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "换个角度看，AI聊天其实是在玩一场极其精密的“掷骰子接龙“！它并不像人类一样真正明白月亮的圆缺，它只是在计算“很可能会“出现哪个字，而不是“一定会“。每一次接话，都是一场在概率的世界里寻找最顺口词语的数字游戏。"
+    },
+    {
+      "id": "lower_03_narrator",
+      "episode": "lower",
+      "scene": 3,
+      "role": "narrator",
+      "text": "核心知识记牢啦：语言模型的核心本领，是根据前文去预测下一个最可能的词。它是基于统计学规律，而不是真正的理解。所以，AI有时候会说出“听起来很对、实际上全错“的连篇鬼话，小朋友们在使用时，一定要学会独立思考去分辨哦！"
+    },
+    {
+      "id": "lower_04_narrator",
+      "episode": "lower",
+      "scene": 4,
+      "role": "narrator",
+      "text": "生活中，我们的大脑其实也是一个超级“语言模型“！背古诗时的下意识接龙、听妈妈说话时的自然顺延、玩游戏时的脱口而出——我们的大脑天生就习惯了在庞大的记忆库里寻找最熟悉的声音，这让我们沟通起来快捷又方便！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "在真正的数字世界里，现在那些会写诗、会写代码、会和人类谈天说地的超级AI大模型，底层全都是靠着这个“预测下一个词“的魔法引擎在运转！科学家们给它喂下了全人类的所有书本，让它在几十亿次的接龙里，学会了用人类的语言和我们自由地交流。"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "哇！从第一课的数字和图形，到今天的语言大模型，我们已经把人工智能大厦里所有最重要的魔法基石全部集齐啦！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "下一课，我们要迎来——《给AI的清楚指令》，去看看如何精准的控制超级人工智能！下节再见啦。"
+    }
+  ]
+}

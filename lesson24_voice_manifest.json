@@ -1,0 +1,121 @@
+{
+  "lesson": "第24课-慢慢调准的小箭头",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "今天，团团和点点来到了热闹的户外射箭场！小AI计算机虽然没有真正的手臂，但它在解决难题、寻找正确答案时，也有一套和射箭一模一样、让自己越瞄越准的超级进化魔法。这个魔法叫——梯度下降。"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "第24课《慢慢调准的小箭头》！今天我们要去解锁计算机最厉害的自我纠错超能力。看看机器是如何在一次次失败中总结经验，慢慢找到最优方法的。"
+    },
+    {
+      "id": "upper_03_narrator",
+      "episode": "upper",
+      "scene": 3,
+      "role": "narrator",
+      "text": "哎呀，团团射出去的箭总是偏一点，不是太靠左，就是太靠右。如果每次射箭都全凭运气乱猜，可能练上一万遍也射不中靶心。计算机在刚开始学习时也一样，没有经过优化调整，吐出的答案总是漏洞百出。"
+    },
+    {
+      "id": "upper_04_diandian",
+      "episode": "upper",
+      "scene": 4,
+      "role": "diandian",
+      "text": "记得熊教练说的，射不准没关系，关键是要看清自己偏了多少。在AI世界里，这个偏离目标的距离叫做误差。只要认准方向，每次把误差缩小一点点，就能找到通往靶心的最佳路线。"
+    },
+    {
+      "id": "upper_05_diandian",
+      "episode": "upper",
+      "scene": 5,
+      "role": "diandian",
+      "text": "看！寻找正确答案是个细致活。如果一次调整得太多，脚步迈得太大，就会一下子冲过头；如果一次调得太少，又像小蚂蚁爬行，怎么也到不了终点。机器在学习时，如果步长没设好，也会陷入这种进退两难的尴尬境地。"
+    },
+    {
+      "id": "upper_06_tuantuan",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "我来试试看！看准方向，每次只改一小步！"
+    },
+    {
+      "id": "upper_06_diandian",
+      "episode": "upper",
+      "scene": 6,
+      "role": "diandian",
+      "text": "太棒了！这就是最科学的调整方法。每一次尝试后，根据误差的方向做出小小的修正。这种不多不少、每次都更近一点的智慧，就是梯度下降的核心！"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "看，这就是小箭头下山坡的魔法！梯度下降就像一个小球从山顶滚向山谷。山坡陡的地方，我们脚步快一点；山坡变平缓了，我们就小步慢行，直到稳稳地停在那个代表“最完美答案“的最低点。"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "换个角度看，计算机学习的秘密和团团练射箭一模一样！它先自己猜一个答案，发现猜错了（计算误差），就顺着正确的方向把算法里的数值调小一点点（微调），然后再猜一次。通过成千上万次这样不知疲倦的小调整，机器就会变得越来越准！"
+    },
+    {
+      "id": "lower_03_narrator",
+      "episode": "lower",
+      "scene": 3,
+      "role": "narrator",
+      "text": "核心知识记牢啦：梯度下降就是通过每次调整一小步，慢慢接近正确答案的优化方法。调整、检查对错、再调整、直到越来越准。在不断自我修正的闭环里，难题最终总会被完美解决！"
+    },
+    {
+      "id": "lower_04_narrator",
+      "episode": "lower",
+      "scene": 4,
+      "role": "narrator",
+      "text": "生活中，我们每个人都是“梯度下降“的小高手！调洗澡水时左转右转摸索温度、下楼梯时用脚尖试探高度、倒水时快满了就放慢速度——这种不断看反馈、小步做微调的智慧，让我们做任何事都恰到好处！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "在真正的数字世界里，无论是会下围棋的超级电脑，还是会和人类聊天的AI大模型，它们在诞生之初都像不会射箭的小婴儿。科学家们就是用“梯度下降“这个超级引擎，让它们在几十亿次的自我纠错中，一步步把错误调到最小，最终进化成了无所不知的科技天才！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "把这个慢慢调准的小箭头魔法好好藏进百宝箱！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "下一课，当小AI学会了看世界、想问题、以及自我纠错之后，它又要怎么竖起耳朵，去听懂人类讲出来的各种神奇话语，甚至像这只聪明的百变鹦鹉一样和我们聊天呢？我们要去探索“大语言模型与自然语言处理“啦，下期再见！"
+    }
+  ]
+}

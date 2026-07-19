@@ -1,0 +1,177 @@
+{
+  "lesson": "第4课-仓库管理员机器人",
+  "voices": {
+    "tuantuan": {
+      "provider": "edge",
+      "voice_id": "zh-CN-YunxiaNeural"
+    },
+    "diandian": {
+      "provider": "minimax",
+      "voice_id": "AIBook_diandian_edge_20260715174438",
+      "speed": 0.98,
+      "vol": 1.0,
+      "pitch": 1,
+      "emotion": "happy"
+    },
+    "narrator": {
+      "provider": "edge",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    }
+  },
+  "segments": [
+    {
+      "id": "upper_01_narrator",
+      "episode": "upper",
+      "scene": 1,
+      "role": "narrator",
+      "text": "小朋友们好！团团和点点来到一个巨大的仓库——这里住着一位神奇的仓库管理员，他会教我们一个超厉害的“存储“魔法！"
+    },
+    {
+      "id": "upper_02_tuantuan",
+      "episode": "upper",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "点点，这些格子墙是什么？"
+    },
+    {
+      "id": "upper_02_diandian",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "这就是存储啊"
+    },
+    {
+      "id": "upper_02_tuantuan_02",
+      "episode": "upper",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "“存储”是什么意思？"
+    },
+    {
+      "id": "upper_02_diandian_02",
+      "episode": "upper",
+      "scene": 2,
+      "role": "diandian",
+      "text": "存储就是把信息装进整齐的格子里！"
+    },
+    {
+      "id": "upper_03_tuantuan",
+      "episode": "upper",
+      "scene": 3,
+      "role": "tuantuan",
+      "text": "好多格子啊！"
+    },
+    {
+      "id": "upper_03_narrator",
+      "episode": "upper",
+      "scene": 3,
+      "role": "narrator",
+      "text": "欢迎！这里是电脑的记忆仓库，我是这里的管理员！"
+    },
+    {
+      "id": "upper_04_narrator",
+      "episode": "upper",
+      "scene": 4,
+      "role": "narrator",
+      "text": "管理员把信息卡片放进格子里，信息就被电脑存储起来了。"
+    },
+    {
+      "id": "upper_04_tuantuan",
+      "episode": "upper",
+      "scene": 4,
+      "role": "tuantuan",
+      "text": "我明白了，这就是存储"
+    },
+    {
+      "id": "upper_05_tuantuan",
+      "episode": "upper",
+      "scene": 5,
+      "role": "tuantuan",
+      "text": "1、2、3、4……！"
+    },
+    {
+      "id": "upper_05_diandian",
+      "episode": "upper",
+      "scene": 5,
+      "role": "diandian",
+      "text": "格子的数量就是容量。格子越多，容量越大！"
+    },
+    {
+      "id": "upper_06_narrator",
+      "episode": "upper",
+      "scene": 6,
+      "role": "narrator",
+      "text": "管理员耐心地解释：“这是机器的记忆仓库，每张信息卡片都需要住的格子里哦！"
+    },
+    {
+      "id": "upper_06_tuantuan",
+      "episode": "upper",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "糟糕！格子满了！只剩6个空格子了！"
+    },
+    {
+      "id": "lower_01_tuantuan",
+      "episode": "lower",
+      "scene": 1,
+      "role": "tuantuan",
+      "text": "有没有办法装得更小？"
+    },
+    {
+      "id": "lower_01_diandian",
+      "episode": "lower",
+      "scene": 1,
+      "role": "diandian",
+      "text": "当然有办法，那就是——压缩！一种保存同样信息，但是占用仓库更少空间的魔法！"
+    },
+    {
+      "id": "lower_02_diandian",
+      "episode": "lower",
+      "scene": 2,
+      "role": "diandian",
+      "text": "压缩可以让原来的格子空出了一大半，可以装更多新卡片啦！"
+    },
+    {
+      "id": "lower_02_tuantuan",
+      "episode": "lower",
+      "scene": 2,
+      "role": "tuantuan",
+      "text": "我明白了，压缩就是用更短的符号表示信息卡片！"
+    },
+    {
+      "id": "lower_03_diandian",
+      "episode": "lower",
+      "scene": 3,
+      "role": "diandian",
+      "text": "太棒了！这次我们学习到了，存储就是把信息放进格子里；容量就是格子的数量；压缩就是把同样多的信息装得更小！"
+    },
+    {
+      "id": "lower_04_diandian",
+      "episode": "lower",
+      "scene": 4,
+      "role": "diandian",
+      "text": "你知道吗？电脑和AI也会用这样的方法来存储信息。它们把所有的东西——图片、音乐、游戏——都放进整齐的格子里。就像我们整理仓库一样！"
+    },
+    {
+      "id": "lower_05_diandian",
+      "episode": "lower",
+      "scene": 5,
+      "role": "diandian",
+      "text": "小朋友们，学会了存储、容量和压缩，就能把信息整理得又整齐又清楚——这就是仓库管理员机器人的魔法！"
+    },
+    {
+      "id": "lower_06_tuantuan",
+      "episode": "lower",
+      "scene": 6,
+      "role": "tuantuan",
+      "text": "我要把今天学的存储魔法收藏起来！"
+    },
+    {
+      "id": "lower_06_diandian",
+      "episode": "lower",
+      "scene": 6,
+      "role": "diandian",
+      "text": "下一课，我们继续去发现新的AI小秘密，像素——图片里的小方块！"
+    }
+  ]
+}

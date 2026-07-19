@@ -1,0 +1,35 @@
+{
+  "tuantuan": {
+    "description": "7岁男孩童声，清脆活泼（Cute）",
+    "voice": "zh-CN-YunxiaNeural",
+    "rate": "+12%",
+    "pitch": "+8Hz",
+    "volume": "+5%",
+    "target_lufs": -12.0
+  },
+  "diandian": {
+    "description": "MinMax 克隆音色，清脆嘹亮 V2（正式选定）",
+    "provider": "minimax",
+    "voice": "AIBook_diandian_edge_20260715174438",
+    "speed": 0.98,
+    "pitch": 1,
+    "volume": 1.0,
+    "emotion": "happy",
+    "post_effect": "bright_loud_v2",
+    "target_lufs": -11.0
+  },
+  "narrator": {
+    "description": "温暖亲切成年女声（Warm）",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-7%",
+    "pitch": "-3Hz",
+    "volume": "+0%",
+    "target_lufs": -11.5
+  },
+  "output": {
+    "sample_rate": 48000,
+    "bitrate": "192k",
+    "channels": 1,
+    "format": "mp3"
+  }
+}

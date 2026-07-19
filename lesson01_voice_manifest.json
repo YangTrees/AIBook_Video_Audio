@@ -1,0 +1,27 @@
+{
+  "lesson":"第1课-小侦探找线索",
+  "sources":[
+    "D:/PROJECTS/_AI/AIBook_Script/小云雀分镜（全集）/第1课-小侦探找线索_上册.md",
+    "D:/PROJECTS/_AI/AIBook_Script/小云雀分镜（全集）/第1课-小侦探找线索_下册.md"
+  ],
+  "voices":{
+    "tuantuan":{"provider":"edge","voice_id":"zh-CN-YunxiaNeural"},
+    "diandian":{"provider":"minimax","voice_id":"AIBook_diandian_edge_20260715174438","speed":0.98,"vol":1.0,"pitch":1,"emotion":"happy"},
+    "narrator":{"provider":"edge","voice_id":"zh-CN-XiaoxiaoNeural"}
+  },
+  "segments":[
+    {"id":"upper_01_narrator","episode":"upper","scene":1,"role":"narrator","text":"今天，团团和点点要带大家变身“小侦探”，去游乐园里寻找一样看不见却非常神奇的“通关法宝”。在数字世界里，没有上过学的计算机，也是靠着寻找线索的超级本领来帮人类做决定的！"},
+    {"id":"upper_02_diandian","episode":"upper","scene":2,"role":"diandian","text":"第1课《小侦探找线索》！今天我们要解锁计算机最基础的思考超能力——“发现信息”。也就是学会通过各种看得见的痕迹，帮自己找到最终的正确答案。"},
+    {"id":"upper_03_narrator","episode":"upper","scene":3,"role":"narrator","text":"糟糕！团团最喜欢的小熊抱抱不见了！遇到问题时，如果什么线索都没有，我们就会像弄丢了玩具一样，不知道该往哪里找。没有信息的指引，计算机和人类的大脑都会陷入一片荒乱。"},
+    {"id":"upper_04_narrator","episode":"upper","scene":4,"role":"narrator","text":"别着急，小侦探可不能靠瞎猜哦！这时候需要冷静下来。在AI和人类的智慧里，解决问题有三步：第一步先观察，第二步找线索，第三步把线索合起来。观察能帮我们发现神奇的线索！"},
+    {"id":"upper_05_narrator","episode":"upper","scene":5,"role":"narrator","text":"当团团用放大镜在地面上发现这一串小熊脚印时，他就找到了第一条线索！脚印这种看得见的痕迹，能告诉我们小熊可能走过哪里。这些能帮我们找到答案的线索，在科技世界里就叫做“信息”。"},
+    {"id":"upper_06_diandian","episode":"upper","scene":6,"role":"diandian","text":"看，这就是AI侦探的超级公式！“线索加线索，等于准确的判断”。如果我们只有一条线索，只能猜一个大概；但是把多条信息组合在一起，做出的决定就会越来越可靠、越来越准确！"},
+    {"id":"lower_01_narrator","episode":"lower","scene":1,"role":"narrator","text":"除了自己观察，向别人提问也是收集信息的重要方式。气球叔叔的线索帮我们指明了方向。记住，信息太少就容易猜错或判断不准，只有用“看一看、问一问、记下来”的方法收集到足够丰富准确的信息，才能帮我们真正破案！"},
+    {"id":"lower_02_narrator","episode":"lower","scene":2,"role":"narrator","text":"核心知识记心间：能帮助我们找答案、做出判断的线索，就是信息！信息是计算机思考和学习的原料。我们收集的线索越多、越清楚，机器和人类做出的判断才越有机会变准确！"},
+    {"id":"lower_03_narrator","episode":"lower","scene":3,"role":"narrator","text":"生活中，我们每个人都是收集信息的小天才！天空的乌云提醒我们可能要下雨、学校的铃声提醒我们到了下课时间、苹果的颜色和形状帮我们认出它是好吃的食物——这些藏在生活里的线索，每天都在帮我们做决定。"},
+    {"id":"lower_04_narrator","episode":"lower","scene":4,"role":"narrator","text":"现在，轮到我们自己动手啦！小朋友，你也可以拿出手边的玩具或者水果，仔细观察并说出它的颜色、形状和用途。把这些线索写下来，就是你专属的“线索收集卡”，组建你自己的信息库吧！"},
+    {"id":"lower_05_narrator","episode":"lower","scene":5,"role":"narrator","text":"太棒了，小侦探靠着线索成功找回了抱抱！而在真正的科技世界里，聪明的AI计算机也是一模一样工作的。比如智能搜救无人机在寻找走失的宠物时，也是通过摄像头在周围收集“耳朵形状”、“尾巴动态”和“声音”这些线索。这些线索就是“输入的信息”，AI把它们组合起来分析，就能瞬间做出最准确的判断，帮人类解决大麻烦！"},
+    {"id":"lower_06_tuantuan","episode":"lower","scene":6,"role":"tuantuan","text":"把今天学到的信息线索法宝收进百宝箱！"},
+    {"id":"lower_06_diandian","episode":"lower","scene":6,"role":"diandian","text":"小侦探大获全胜！下一课，如果没有好玩的游乐园，我们要去一个非常奇妙的“开关城”，认识电脑大门里最基础、最神奇的两个数字小符号。我们要去挑战“0和1的秘密”啦，下期再见！"}
+  ]
+}
